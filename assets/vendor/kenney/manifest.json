@@ -1,0 +1,280 @@
+[
+  {
+    "pack": "furniture-kit",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "archiveUrl": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+    "archiveSha256": "e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0",
+    "models": [
+      {
+        "file": "tableRound.glb",
+        "archivePath": "Models/GLTF format/tableRound.glb",
+        "sha256": "f8daea9124a542a00b7bdacfddac82dc468573d43e44d7b54dd6316e9695754b",
+        "bytes": 6444
+      },
+      {
+        "file": "table.glb",
+        "archivePath": "Models/GLTF format/table.glb",
+        "sha256": "ff1a94498d023957f4bc3ff6f55a7a82977d336dbf01a573b3364f03afe5ff61",
+        "bytes": 8196
+      },
+      {
+        "file": "chair.glb",
+        "archivePath": "Models/GLTF format/chair.glb",
+        "sha256": "c8a11eec93e89e31250ba91afc1b8d56c3bec7ae86640fd1239f595ff4180883",
+        "bytes": 10756
+      },
+      {
+        "file": "chairRounded.glb",
+        "archivePath": "Models/GLTF format/chairRounded.glb",
+        "sha256": "53f4933ec547179c499f04dbda1231cf44b83ec82c7f4ab981cdf680aee5c973",
+        "bytes": 17156
+      },
+      {
+        "file": "chairCushion.glb",
+        "archivePath": "Models/GLTF format/chairCushion.glb",
+        "sha256": "33544228984857f2cb502b58452fed72157335f9b1caf29e96da5c9094c53fdc",
+        "bytes": 12588
+      },
+      {
+        "file": "stoolBar.glb",
+        "archivePath": "Models/GLTF format/stoolBar.glb",
+        "sha256": "a86167a9f92401a61fec7e509ad089ecc552d0f299743add3aeb919acb24e341",
+        "bytes": 11816
+      },
+      {
+        "file": "kitchenBar.glb",
+        "archivePath": "Models/GLTF format/kitchenBar.glb",
+        "sha256": "792c3d31e60c8a8d8c7a28cf7d1efe004c5a601adc1b163a8799dde32c1b559d",
+        "bytes": 6004
+      },
+      {
+        "file": "kitchenCoffeeMachine.glb",
+        "archivePath": "Models/GLTF format/kitchenCoffeeMachine.glb",
+        "sha256": "063f582c6fa0f00a9f24e3393dac2295491c4becdaf5513c893ab1a2826b6ec3",
+        "bytes": 13332
+      },
+      {
+        "file": "kitchenBlender.glb",
+        "archivePath": "Models/GLTF format/kitchenBlender.glb",
+        "sha256": "f471defb5b2b1cf3b949a1a8aaef0a8b727afe662b0815068cf4e963325a3c1f",
+        "bytes": 18728
+      },
+      {
+        "file": "bookcaseOpen.glb",
+        "archivePath": "Models/GLTF format/bookcaseOpen.glb",
+        "sha256": "750702218d68c062b15dfef6ab06a4014d1cfa8bd05f02e57c53b7e13bec157c",
+        "bytes": 18020
+      },
+      {
+        "file": "bookcaseOpenLow.glb",
+        "archivePath": "Models/GLTF format/bookcaseOpenLow.glb",
+        "sha256": "6d4d625faf977a2dbf155f1313cd32c6310e463114a1cd4c08cb9f80a5fb1d75",
+        "bytes": 11520
+      },
+      {
+        "file": "books.glb",
+        "archivePath": "Models/GLTF format/books.glb",
+        "sha256": "b8dc56e5d29f6fc1f4727fccb1b9642627fee9942c48060a00034e98df02701c",
+        "bytes": 6864
+      },
+      {
+        "file": "loungeSofa.glb",
+        "archivePath": "Models/GLTF format/loungeSofa.glb",
+        "sha256": "1886b811c0d3ad0d8525a4fd43adf4112c497c8e0ed906f06877ca3517f4c7dd",
+        "bytes": 9644
+      },
+      {
+        "file": "loungeChair.glb",
+        "archivePath": "Models/GLTF format/loungeChair.glb",
+        "sha256": "ddfe6bc4b3451bca61666d7b614552d6ed2a03d82fc76244b72ae3155874dc6c",
+        "bytes": 9648
+      },
+      {
+        "file": "tableCoffee.glb",
+        "archivePath": "Models/GLTF format/tableCoffee.glb",
+        "sha256": "e38bea760fbd514efbb75528d09b4752c91af44677bbb97e6d4386c263525179",
+        "bytes": 8256
+      },
+      {
+        "file": "lampRoundFloor.glb",
+        "archivePath": "Models/GLTF format/lampRoundFloor.glb",
+        "sha256": "50fe1b5b588edf15bfa9cc880f71a02a4fda6036350b24733d0ef4de5cc5e908",
+        "bytes": 6600
+      },
+      {
+        "file": "pottedPlant.glb",
+        "archivePath": "Models/GLTF format/pottedPlant.glb",
+        "sha256": "5b760eda2766f75fda36b2c5df652a1662f82981ef64cd8fa7fe7bcd386b3a15",
+        "bytes": 7576
+      },
+      {
+        "file": "desk.glb",
+        "archivePath": "Models/GLTF format/desk.glb",
+        "sha256": "0164fe828f028b321730fb8c74502e353583f751be74da1682d42fff7d3c5a42",
+        "bytes": 15048
+      },
+      {
+        "file": "chairDesk.glb",
+        "archivePath": "Models/GLTF format/chairDesk.glb",
+        "sha256": "46406619186034cbe92b19b79a5f1a8e3f442a17a70a7524ef2c0ad0f35095c6",
+        "bytes": 39016
+      },
+      {
+        "file": "computerScreen.glb",
+        "archivePath": "Models/GLTF format/computerScreen.glb",
+        "sha256": "5942cbad29a2d2b956619569926e81d50a4174403d592fece6556e57632dc643",
+        "bytes": 6404
+      },
+      {
+        "file": "computerKeyboard.glb",
+        "archivePath": "Models/GLTF format/computerKeyboard.glb",
+        "sha256": "9d9135789de2120e9f41ce3f0a56dd1b15f40adcc7888739bb842a2d820da322",
+        "bytes": 3476
+      },
+      {
+        "file": "computerMouse.glb",
+        "archivePath": "Models/GLTF format/computerMouse.glb",
+        "sha256": "d3ad1a923f0f7707ef367bb969eb94c9076e211c98c830ba52e133fadc5cdfc0",
+        "bytes": 5868
+      },
+      {
+        "file": "laptop.glb",
+        "archivePath": "Models/GLTF format/laptop.glb",
+        "sha256": "5fa8a1f4a71ab8d82ef64da77a6973ffd350c6d4557516069a4ffd4bb8d808af",
+        "bytes": 5540
+      },
+      {
+        "file": "televisionModern.glb",
+        "archivePath": "Models/GLTF format/televisionModern.glb",
+        "sha256": "d89519ad0a5f28b5b0dccb0d83209dccf610cda959578238dd21bbf9e219cfc6",
+        "bytes": 6368
+      },
+      {
+        "file": "speaker.glb",
+        "archivePath": "Models/GLTF format/speaker.glb",
+        "sha256": "78230b9fb382a937cb19e4bf7556ee9402d33ac80b1baaee2d2eb89493cfa1fc",
+        "bytes": 15744
+      },
+      {
+        "file": "coatRackStanding.glb",
+        "archivePath": "Models/GLTF format/coatRackStanding.glb",
+        "sha256": "d8231c22dab63ceb9fc8678f6c8ceafc62afa8726b51a73b4ce349043d3cdc91",
+        "bytes": 13288
+      },
+      {
+        "file": "cabinetBedDrawer.glb",
+        "archivePath": "Models/GLTF format/cabinetBedDrawer.glb",
+        "sha256": "e3dfd2e120af3d4d29b66509e317452cd15bd3f57ac8945575462c582adc6de8",
+        "bytes": 16088
+      },
+      {
+        "file": "plantSmall1.glb",
+        "archivePath": "Models/GLTF format/plantSmall1.glb",
+        "sha256": "2b9c022feb47be857b2c4fdc29f36522766ba9b70c578c31d7c05d71b4377d15",
+        "bytes": 8224
+      },
+      {
+        "file": "sideTable.glb",
+        "archivePath": "Models/GLTF format/sideTable.glb",
+        "sha256": "8227810584f7d37582e4e9ec821c56f1dc54b99c88a8dc74242ea3b7402bc472",
+        "bytes": 8800
+      },
+      {
+        "file": "bathroomMirror.glb",
+        "archivePath": "Models/GLTF format/bathroomMirror.glb",
+        "sha256": "940b986894101ea59b50541554b6dc608a22b133057975849259009012984175",
+        "bytes": 6792
+      }
+    ]
+  },
+  {
+    "pack": "food-kit",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/food-kit",
+    "archiveUrl": "https://kenney.nl/media/pages/assets/food-kit/83086fa91c-1719418518/kenney_food-kit.zip",
+    "archiveSha256": "cdad90853682499b94c9fda2f87678b24bfd8f3264e0ed323f6b6a27fd7c6f6f",
+    "models": [
+      {
+        "file": "cup-tea.glb",
+        "archivePath": "Models/GLB format/cup-tea.glb",
+        "sha256": "c2d60aeca48197b75ddb9f1ba145bd5e9c9e66e720b8ab67947f0b2a49ee1edd",
+        "bytes": 9780
+      },
+      {
+        "file": "frappe.glb",
+        "archivePath": "Models/GLB format/frappe.glb",
+        "sha256": "4e5aafa4bff86fff9e4b5e5ef747cc93edfaa7d50c02f33e3b45480e68017d1b",
+        "bytes": 22548
+      },
+      {
+        "file": "cup-coffee.glb",
+        "archivePath": "Models/GLB format/cup-coffee.glb",
+        "sha256": "d74652ad1821bc5dedf1b2e1deb4e0ca0c498aa73880e7df5b91e5e729af6f81",
+        "bytes": 7872
+      },
+      {
+        "file": "cake.glb",
+        "archivePath": "Models/GLB format/cake.glb",
+        "sha256": "9594766d701142c4f5ab1d36cc40957667cd966281757e887de4d40557e63e09",
+        "bytes": 72884
+      },
+      {
+        "file": "croissant.glb",
+        "archivePath": "Models/GLB format/croissant.glb",
+        "sha256": "f2f8ee64d7850b262a6af2492cd042fa8eb6506cde49d439360ad1a3df48fe9e",
+        "bytes": 14352
+      },
+      {
+        "file": "bread.glb",
+        "archivePath": "Models/GLB format/bread.glb",
+        "sha256": "9bd9db117db654cf1157439d1257a8fc5915ea77a94fb876a5056522b9e49f46",
+        "bytes": 9468
+      },
+      {
+        "file": "apple.glb",
+        "archivePath": "Models/GLB format/apple.glb",
+        "sha256": "2a80ab65d5bc2cb4f2bca1e8176cbb591849a288596d4b2e76e411338761a526",
+        "bytes": 14376
+      },
+      {
+        "file": "carton.glb",
+        "archivePath": "Models/GLB format/carton.glb",
+        "sha256": "b63a5081c6edbda7ba8172e6a776f222e781f886a011a887789b2fde42095d04",
+        "bytes": 9352
+      },
+      {
+        "file": "bottle-oil.glb",
+        "archivePath": "Models/GLB format/bottle-oil.glb",
+        "sha256": "a87a7a6146be0996b17aca3ccd011cfe0d045593db03f89829f88b6228b49d57",
+        "bytes": 10500
+      },
+      {
+        "file": "plate-dinner.glb",
+        "archivePath": "Models/GLB format/plate-dinner.glb",
+        "sha256": "f6085c9caae201e0d2f0e6ea816ba3ed38e22df0eb08b10c0b9356b0212ad18f",
+        "bytes": 27908
+      },
+      {
+        "file": "burger.glb",
+        "archivePath": "Models/GLB format/burger.glb",
+        "sha256": "b982f15d980ef49f3aa295fda03b1926b0b9a29d3d000d139e111d734474c99b",
+        "bytes": 34536
+      },
+      {
+        "file": "glass-wine.glb",
+        "archivePath": "Models/GLB format/glass-wine.glb",
+        "sha256": "7021e2a701419b48fcfba5a1344f12049d84fd6e68fc9e54fbe051ae522a23bb",
+        "bytes": 23984
+      },
+      {
+        "file": "bowl-soup.glb",
+        "archivePath": "Models/GLB format/bowl-soup.glb",
+        "sha256": "0ff11d6a54ed9b0592ff24e02ca1dd4d12f47762dd7f571e985b48f3d1467e58",
+        "bytes": 11188
+      }
+    ]
+  }
+]

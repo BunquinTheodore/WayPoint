@@ -1,0 +1,2021 @@
+{
+  "id": "demo-001",
+  "name": "Meridian Learning Center",
+  "version": "1.0.0",
+  "schemaVersion": 1,
+  "reviewDate": "2026-10-09",
+  "floors": [
+    {
+      "id": 0,
+      "name": "Ground floor",
+      "height": 0.0
+    },
+    {
+      "id": 1,
+      "name": "Second floor",
+      "height": 3.8
+    },
+    {
+      "id": 2,
+      "name": "Third floor",
+      "height": 7.6
+    }
+  ],
+  "rooms": [
+    {
+      "id": "room-0-0",
+      "name": "Clinic",
+      "category": "health",
+      "description": "First aid and visitor assistance",
+      "aliases": [
+        "nurse",
+        "medical help",
+        "feeling unwell"
+      ],
+      "floor": 0,
+      "position": [
+        -8,
+        0.18,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-0-0"
+    },
+    {
+      "id": "room-0-1",
+      "name": "Student Lounge",
+      "category": "social",
+      "description": "Seating and a space to meet friends",
+      "aliases": [
+        "meet friends",
+        "relax",
+        "waiting area"
+      ],
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-0-1"
+    },
+    {
+      "id": "room-0-2",
+      "name": "Restrooms",
+      "category": "facilities",
+      "description": "Ground floor accessible toilets",
+      "aliases": [
+        "bathroom",
+        "toilet",
+        "washroom"
+      ],
+      "floor": 0,
+      "position": [
+        8,
+        0.18,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-0-2"
+    },
+    {
+      "id": "room-0-3",
+      "name": "Exhibition",
+      "category": "learning",
+      "description": "Student projects and displays",
+      "aliases": [
+        "projects",
+        "gallery"
+      ],
+      "floor": 0,
+      "position": [
+        -8,
+        0.18,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-0-3"
+    },
+    {
+      "id": "room-0-4",
+      "name": "Reception",
+      "category": "services",
+      "description": "Visitor information and registration",
+      "aliases": [
+        "help desk",
+        "information",
+        "ask for help"
+      ],
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-0-4"
+    },
+    {
+      "id": "room-0-5",
+      "name": "Caf\u00e9",
+      "category": "food",
+      "description": "Coffee, drinking water, and refreshments",
+      "aliases": [
+        "hungry",
+        "drink",
+        "coffee",
+        "water"
+      ],
+      "floor": 0,
+      "position": [
+        8,
+        0.18,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-0-5"
+    },
+    {
+      "id": "room-1-0",
+      "name": "Classroom 201",
+      "category": "learning",
+      "description": "Mathematics classroom",
+      "aliases": [
+        "math class",
+        "lesson",
+        "class 201"
+      ],
+      "floor": 1,
+      "position": [
+        -8,
+        3.98,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-1-0"
+    },
+    {
+      "id": "room-1-1",
+      "name": "Computer Lab",
+      "category": "learning",
+      "description": "Computers and printing facilities",
+      "aliases": [
+        "print a document",
+        "computer",
+        "printing"
+      ],
+      "floor": 1,
+      "position": [
+        0,
+        3.98,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-1-1"
+    },
+    {
+      "id": "room-1-2",
+      "name": "Classroom 203",
+      "category": "learning",
+      "description": "Science classroom",
+      "aliases": [
+        "science class",
+        "laboratory lesson"
+      ],
+      "floor": 1,
+      "position": [
+        8,
+        3.98,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-1-2"
+    },
+    {
+      "id": "room-1-3",
+      "name": "Faculty Office",
+      "category": "services",
+      "description": "Teachers and academic support",
+      "aliases": [
+        "find a teacher",
+        "instructor",
+        "academic help"
+      ],
+      "floor": 1,
+      "position": [
+        -8,
+        3.98,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-1-3"
+    },
+    {
+      "id": "room-1-4",
+      "name": "Restrooms 2F",
+      "category": "facilities",
+      "description": "Second floor toilets",
+      "aliases": [
+        "bathroom upstairs",
+        "second floor toilet"
+      ],
+      "floor": 1,
+      "position": [
+        0,
+        3.98,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-1-4"
+    },
+    {
+      "id": "room-1-5",
+      "name": "Study Room",
+      "category": "learning",
+      "description": "Quiet individual study desks",
+      "aliases": [
+        "study quietly",
+        "homework",
+        "quiet place"
+      ],
+      "floor": 1,
+      "position": [
+        8,
+        3.98,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-1-5"
+    },
+    {
+      "id": "room-2-0",
+      "name": "Meeting Room",
+      "category": "services",
+      "description": "Group meetings and collaboration",
+      "aliases": [
+        "team meeting",
+        "discussion"
+      ],
+      "floor": 2,
+      "position": [
+        -8,
+        7.779999999999999,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-2-0"
+    },
+    {
+      "id": "room-2-1",
+      "name": "Library",
+      "category": "learning",
+      "description": "Books, reading, borrowing and returning books",
+      "aliases": [
+        "borrow books",
+        "return books",
+        "read a book",
+        "books"
+      ],
+      "floor": 2,
+      "position": [
+        0,
+        7.779999999999999,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-2-1"
+    },
+    {
+      "id": "room-2-2",
+      "name": "Restrooms 3F",
+      "category": "facilities",
+      "description": "Third floor toilets",
+      "aliases": [
+        "third floor toilet"
+      ],
+      "floor": 2,
+      "position": [
+        8,
+        7.779999999999999,
+        -4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-2-2"
+    },
+    {
+      "id": "room-2-3",
+      "name": "Workshop",
+      "category": "learning",
+      "description": "Creative activities and model making",
+      "aliases": [
+        "make something",
+        "craft",
+        "creative"
+      ],
+      "floor": 2,
+      "position": [
+        -8,
+        7.779999999999999,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-2-3"
+    },
+    {
+      "id": "room-2-4",
+      "name": "Reading Room",
+      "category": "learning",
+      "description": "Quiet reading tables",
+      "aliases": [
+        "reading",
+        "quiet reading"
+      ],
+      "floor": 2,
+      "position": [
+        0,
+        7.779999999999999,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-2-4"
+    },
+    {
+      "id": "room-2-5",
+      "name": "Event Hall",
+      "category": "social",
+      "description": "Talks, presentations and gatherings",
+      "aliases": [
+        "presentation",
+        "talk",
+        "event"
+      ],
+      "floor": 2,
+      "position": [
+        8,
+        7.779999999999999,
+        4.9
+      ],
+      "size": [
+        7.8,
+        5.8
+      ],
+      "node": "room-2-5"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "room-0-0",
+      "floor": 0,
+      "position": [
+        -8,
+        0.18,
+        -4.9
+      ],
+      "label": "Clinic"
+    },
+    {
+      "id": "door-0-0",
+      "floor": 0,
+      "position": [
+        -8,
+        0.18,
+        -1.95
+      ],
+      "label": "Clinic doorway"
+    },
+    {
+      "id": "room-0-1",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        -4.9
+      ],
+      "label": "Student Lounge"
+    },
+    {
+      "id": "door-0-1",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        -1.95
+      ],
+      "label": "Student Lounge doorway"
+    },
+    {
+      "id": "room-0-2",
+      "floor": 0,
+      "position": [
+        8,
+        0.18,
+        -4.9
+      ],
+      "label": "Restrooms"
+    },
+    {
+      "id": "door-0-2",
+      "floor": 0,
+      "position": [
+        8,
+        0.18,
+        -1.95
+      ],
+      "label": "Restrooms doorway"
+    },
+    {
+      "id": "room-0-3",
+      "floor": 0,
+      "position": [
+        -8,
+        0.18,
+        4.9
+      ],
+      "label": "Exhibition"
+    },
+    {
+      "id": "door-0-3",
+      "floor": 0,
+      "position": [
+        -8,
+        0.18,
+        1.95
+      ],
+      "label": "Exhibition doorway"
+    },
+    {
+      "id": "room-0-4",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        4.9
+      ],
+      "label": "Reception"
+    },
+    {
+      "id": "door-0-4",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        1.95
+      ],
+      "label": "Reception doorway"
+    },
+    {
+      "id": "room-0-5",
+      "floor": 0,
+      "position": [
+        8,
+        0.18,
+        4.9
+      ],
+      "label": "Caf\u00e9"
+    },
+    {
+      "id": "door-0-5",
+      "floor": 0,
+      "position": [
+        8,
+        0.18,
+        1.95
+      ],
+      "label": "Caf\u00e9 doorway"
+    },
+    {
+      "id": "corridor-0-0",
+      "floor": 0,
+      "position": [
+        -13,
+        0.18,
+        0
+      ],
+      "label": "West stairs, ground floor",
+      "checkpoint": "floor-0-west-stairs"
+    },
+    {
+      "id": "corridor-0-5",
+      "floor": 0,
+      "position": [
+        -8,
+        0.18,
+        0
+      ],
+      "label": "West corridor, ground floor"
+    },
+    {
+      "id": "corridor-0-13",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        0
+      ],
+      "label": "Central junction, ground floor",
+      "checkpoint": "floor-0-junction"
+    },
+    {
+      "id": "corridor-0-21",
+      "floor": 0,
+      "position": [
+        8,
+        0.18,
+        0
+      ],
+      "label": "East corridor, ground floor"
+    },
+    {
+      "id": "corridor-0-26",
+      "floor": 0,
+      "position": [
+        13,
+        0.18,
+        0
+      ],
+      "label": "East stairs, ground floor",
+      "checkpoint": "floor-0-east-stairs"
+    },
+    {
+      "id": "refuge-0-west",
+      "floor": 0,
+      "position": [
+        -13,
+        0.18,
+        1.1
+      ],
+      "label": "West stair assistance point",
+      "refuge": true
+    },
+    {
+      "id": "refuge-0-east",
+      "floor": 0,
+      "position": [
+        13,
+        0.18,
+        1.1
+      ],
+      "label": "East stair assistance point",
+      "refuge": true
+    },
+    {
+      "id": "lift-0",
+      "floor": 0,
+      "position": [
+        3,
+        0.18,
+        1.1
+      ],
+      "label": "Elevator, floor 1"
+    },
+    {
+      "id": "room-1-0",
+      "floor": 1,
+      "position": [
+        -8,
+        3.98,
+        -4.9
+      ],
+      "label": "Classroom 201"
+    },
+    {
+      "id": "door-1-0",
+      "floor": 1,
+      "position": [
+        -8,
+        3.98,
+        -1.95
+      ],
+      "label": "Classroom 201 doorway"
+    },
+    {
+      "id": "room-1-1",
+      "floor": 1,
+      "position": [
+        0,
+        3.98,
+        -4.9
+      ],
+      "label": "Computer Lab"
+    },
+    {
+      "id": "door-1-1",
+      "floor": 1,
+      "position": [
+        0,
+        3.98,
+        -1.95
+      ],
+      "label": "Computer Lab doorway"
+    },
+    {
+      "id": "room-1-2",
+      "floor": 1,
+      "position": [
+        8,
+        3.98,
+        -4.9
+      ],
+      "label": "Classroom 203"
+    },
+    {
+      "id": "door-1-2",
+      "floor": 1,
+      "position": [
+        8,
+        3.98,
+        -1.95
+      ],
+      "label": "Classroom 203 doorway"
+    },
+    {
+      "id": "room-1-3",
+      "floor": 1,
+      "position": [
+        -8,
+        3.98,
+        4.9
+      ],
+      "label": "Faculty Office"
+    },
+    {
+      "id": "door-1-3",
+      "floor": 1,
+      "position": [
+        -8,
+        3.98,
+        1.95
+      ],
+      "label": "Faculty Office doorway"
+    },
+    {
+      "id": "room-1-4",
+      "floor": 1,
+      "position": [
+        0,
+        3.98,
+        4.9
+      ],
+      "label": "Restrooms 2F"
+    },
+    {
+      "id": "door-1-4",
+      "floor": 1,
+      "position": [
+        0,
+        3.98,
+        1.95
+      ],
+      "label": "Restrooms 2F doorway"
+    },
+    {
+      "id": "room-1-5",
+      "floor": 1,
+      "position": [
+        8,
+        3.98,
+        4.9
+      ],
+      "label": "Study Room"
+    },
+    {
+      "id": "door-1-5",
+      "floor": 1,
+      "position": [
+        8,
+        3.98,
+        1.95
+      ],
+      "label": "Study Room doorway"
+    },
+    {
+      "id": "corridor-1-0",
+      "floor": 1,
+      "position": [
+        -13,
+        3.98,
+        0
+      ],
+      "label": "West stairs, second floor",
+      "checkpoint": "floor-1-west-stairs"
+    },
+    {
+      "id": "corridor-1-5",
+      "floor": 1,
+      "position": [
+        -8,
+        3.98,
+        0
+      ],
+      "label": "West corridor, second floor"
+    },
+    {
+      "id": "corridor-1-13",
+      "floor": 1,
+      "position": [
+        0,
+        3.98,
+        0
+      ],
+      "label": "Central junction, second floor",
+      "checkpoint": "floor-1-junction"
+    },
+    {
+      "id": "corridor-1-21",
+      "floor": 1,
+      "position": [
+        8,
+        3.98,
+        0
+      ],
+      "label": "East corridor, second floor"
+    },
+    {
+      "id": "corridor-1-26",
+      "floor": 1,
+      "position": [
+        13,
+        3.98,
+        0
+      ],
+      "label": "East stairs, second floor",
+      "checkpoint": "floor-1-east-stairs"
+    },
+    {
+      "id": "refuge-1-west",
+      "floor": 1,
+      "position": [
+        -13,
+        3.98,
+        1.1
+      ],
+      "label": "West stair assistance point",
+      "refuge": true
+    },
+    {
+      "id": "refuge-1-east",
+      "floor": 1,
+      "position": [
+        13,
+        3.98,
+        1.1
+      ],
+      "label": "East stair assistance point",
+      "refuge": true
+    },
+    {
+      "id": "lift-1",
+      "floor": 1,
+      "position": [
+        3,
+        3.98,
+        1.1
+      ],
+      "label": "Elevator, floor 2"
+    },
+    {
+      "id": "room-2-0",
+      "floor": 2,
+      "position": [
+        -8,
+        7.779999999999999,
+        -4.9
+      ],
+      "label": "Meeting Room"
+    },
+    {
+      "id": "door-2-0",
+      "floor": 2,
+      "position": [
+        -8,
+        7.779999999999999,
+        -1.95
+      ],
+      "label": "Meeting Room doorway"
+    },
+    {
+      "id": "room-2-1",
+      "floor": 2,
+      "position": [
+        0,
+        7.779999999999999,
+        -4.9
+      ],
+      "label": "Library"
+    },
+    {
+      "id": "door-2-1",
+      "floor": 2,
+      "position": [
+        0,
+        7.779999999999999,
+        -1.95
+      ],
+      "label": "Library doorway"
+    },
+    {
+      "id": "room-2-2",
+      "floor": 2,
+      "position": [
+        8,
+        7.779999999999999,
+        -4.9
+      ],
+      "label": "Restrooms 3F"
+    },
+    {
+      "id": "door-2-2",
+      "floor": 2,
+      "position": [
+        8,
+        7.779999999999999,
+        -1.95
+      ],
+      "label": "Restrooms 3F doorway"
+    },
+    {
+      "id": "room-2-3",
+      "floor": 2,
+      "position": [
+        -8,
+        7.779999999999999,
+        4.9
+      ],
+      "label": "Workshop"
+    },
+    {
+      "id": "door-2-3",
+      "floor": 2,
+      "position": [
+        -8,
+        7.779999999999999,
+        1.95
+      ],
+      "label": "Workshop doorway"
+    },
+    {
+      "id": "room-2-4",
+      "floor": 2,
+      "position": [
+        0,
+        7.779999999999999,
+        4.9
+      ],
+      "label": "Reading Room"
+    },
+    {
+      "id": "door-2-4",
+      "floor": 2,
+      "position": [
+        0,
+        7.779999999999999,
+        1.95
+      ],
+      "label": "Reading Room doorway"
+    },
+    {
+      "id": "room-2-5",
+      "floor": 2,
+      "position": [
+        8,
+        7.779999999999999,
+        4.9
+      ],
+      "label": "Event Hall"
+    },
+    {
+      "id": "door-2-5",
+      "floor": 2,
+      "position": [
+        8,
+        7.779999999999999,
+        1.95
+      ],
+      "label": "Event Hall doorway"
+    },
+    {
+      "id": "corridor-2-0",
+      "floor": 2,
+      "position": [
+        -13,
+        7.779999999999999,
+        0
+      ],
+      "label": "West stairs, third floor",
+      "checkpoint": "floor-2-west-stairs"
+    },
+    {
+      "id": "corridor-2-5",
+      "floor": 2,
+      "position": [
+        -8,
+        7.779999999999999,
+        0
+      ],
+      "label": "West corridor, third floor"
+    },
+    {
+      "id": "corridor-2-13",
+      "floor": 2,
+      "position": [
+        0,
+        7.779999999999999,
+        0
+      ],
+      "label": "Central junction, third floor",
+      "checkpoint": "floor-2-junction"
+    },
+    {
+      "id": "corridor-2-21",
+      "floor": 2,
+      "position": [
+        8,
+        7.779999999999999,
+        0
+      ],
+      "label": "East corridor, third floor"
+    },
+    {
+      "id": "corridor-2-26",
+      "floor": 2,
+      "position": [
+        13,
+        7.779999999999999,
+        0
+      ],
+      "label": "East stairs, third floor",
+      "checkpoint": "floor-2-east-stairs"
+    },
+    {
+      "id": "refuge-2-west",
+      "floor": 2,
+      "position": [
+        -13,
+        7.779999999999999,
+        1.1
+      ],
+      "label": "West stair assistance point",
+      "refuge": true
+    },
+    {
+      "id": "refuge-2-east",
+      "floor": 2,
+      "position": [
+        13,
+        7.779999999999999,
+        1.1
+      ],
+      "label": "East stair assistance point",
+      "refuge": true
+    },
+    {
+      "id": "lift-2",
+      "floor": 2,
+      "position": [
+        3,
+        7.779999999999999,
+        1.1
+      ],
+      "label": "Elevator, floor 3"
+    },
+    {
+      "id": "stairs-0-west-bottom",
+      "floor": 0,
+      "position": [
+        -13.25,
+        0.18,
+        -1.75
+      ],
+      "label": "West stair entrance"
+    },
+    {
+      "id": "stairs-1-west-top",
+      "floor": 1,
+      "position": [
+        -13.25,
+        3.98,
+        -7.45
+      ],
+      "label": "West upper stair landing"
+    },
+    {
+      "id": "stairs-1-west-return",
+      "floor": 1,
+      "position": [
+        -14.5,
+        3.98,
+        -7.45
+      ],
+      "label": "West stair return walkway"
+    },
+    {
+      "id": "stairs-1-west-hall",
+      "floor": 1,
+      "position": [
+        -14.5,
+        3.98,
+        0
+      ],
+      "label": "West stair corridor"
+    },
+    {
+      "id": "stairs-0-east-bottom",
+      "floor": 0,
+      "position": [
+        13.25,
+        0.18,
+        -1.75
+      ],
+      "label": "East stair entrance"
+    },
+    {
+      "id": "stairs-1-east-top",
+      "floor": 1,
+      "position": [
+        13.25,
+        3.98,
+        -7.45
+      ],
+      "label": "East upper stair landing"
+    },
+    {
+      "id": "stairs-1-east-return",
+      "floor": 1,
+      "position": [
+        14.5,
+        3.98,
+        -7.45
+      ],
+      "label": "East stair return walkway"
+    },
+    {
+      "id": "stairs-1-east-hall",
+      "floor": 1,
+      "position": [
+        14.5,
+        3.98,
+        0
+      ],
+      "label": "East stair corridor"
+    },
+    {
+      "id": "stairs-1-west-bottom",
+      "floor": 1,
+      "position": [
+        -13.25,
+        3.98,
+        -1.75
+      ],
+      "label": "West stair entrance"
+    },
+    {
+      "id": "stairs-2-west-top",
+      "floor": 2,
+      "position": [
+        -13.25,
+        7.779999999999999,
+        -7.45
+      ],
+      "label": "West upper stair landing"
+    },
+    {
+      "id": "stairs-2-west-return",
+      "floor": 2,
+      "position": [
+        -14.5,
+        7.779999999999999,
+        -7.45
+      ],
+      "label": "West stair return walkway"
+    },
+    {
+      "id": "stairs-2-west-hall",
+      "floor": 2,
+      "position": [
+        -14.5,
+        7.779999999999999,
+        0
+      ],
+      "label": "West stair corridor"
+    },
+    {
+      "id": "stairs-1-east-bottom",
+      "floor": 1,
+      "position": [
+        13.25,
+        3.98,
+        -1.75
+      ],
+      "label": "East stair entrance"
+    },
+    {
+      "id": "stairs-2-east-top",
+      "floor": 2,
+      "position": [
+        13.25,
+        7.779999999999999,
+        -7.45
+      ],
+      "label": "East upper stair landing"
+    },
+    {
+      "id": "stairs-2-east-return",
+      "floor": 2,
+      "position": [
+        14.5,
+        7.779999999999999,
+        -7.45
+      ],
+      "label": "East stair return walkway"
+    },
+    {
+      "id": "stairs-2-east-hall",
+      "floor": 2,
+      "position": [
+        14.5,
+        7.779999999999999,
+        0
+      ],
+      "label": "East stair corridor"
+    },
+    {
+      "id": "entrance",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        9.5
+      ],
+      "label": "Main entrance",
+      "checkpoint": "ground-reception"
+    },
+    {
+      "id": "exit-west",
+      "floor": 0,
+      "position": [
+        -15.8,
+        0.18,
+        0
+      ],
+      "label": "West exterior exit",
+      "exit": true
+    },
+    {
+      "id": "assembly-west",
+      "floor": 0,
+      "position": [
+        -19,
+        0.18,
+        0
+      ],
+      "label": "West assembly point",
+      "assembly": true
+    },
+    {
+      "id": "exit-east",
+      "floor": 0,
+      "position": [
+        15.8,
+        0.18,
+        0
+      ],
+      "label": "East exterior exit",
+      "exit": true
+    },
+    {
+      "id": "assembly-east",
+      "floor": 0,
+      "position": [
+        19,
+        0.18,
+        0
+      ],
+      "label": "East assembly point",
+      "assembly": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "door-0-0--room-0-0",
+      "from": "door-0-0",
+      "to": "room-0-0",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-1--room-0-1",
+      "from": "door-0-1",
+      "to": "room-0-1",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-2--room-0-2",
+      "from": "door-0-2",
+      "to": "room-0-2",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-3--room-0-3",
+      "from": "door-0-3",
+      "to": "room-0-3",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-4--room-0-4",
+      "from": "door-0-4",
+      "to": "room-0-4",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-5--room-0-5",
+      "from": "door-0-5",
+      "to": "room-0-5",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-0--corridor-0-5",
+      "from": "corridor-0-0",
+      "to": "corridor-0-5",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-5--corridor-0-13",
+      "from": "corridor-0-5",
+      "to": "corridor-0-13",
+      "distance": 8.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-13--corridor-0-21",
+      "from": "corridor-0-13",
+      "to": "corridor-0-21",
+      "distance": 8.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-21--corridor-0-26",
+      "from": "corridor-0-21",
+      "to": "corridor-0-26",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-5--door-0-0",
+      "from": "corridor-0-5",
+      "to": "door-0-0",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-13--door-0-1",
+      "from": "corridor-0-13",
+      "to": "door-0-1",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-21--door-0-2",
+      "from": "corridor-0-21",
+      "to": "door-0-2",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-5--door-0-3",
+      "from": "corridor-0-5",
+      "to": "door-0-3",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-13--door-0-4",
+      "from": "corridor-0-13",
+      "to": "door-0-4",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-21--door-0-5",
+      "from": "corridor-0-21",
+      "to": "door-0-5",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-0--refuge-0-west",
+      "from": "corridor-0-0",
+      "to": "refuge-0-west",
+      "distance": 1.1,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-26--refuge-0-east",
+      "from": "corridor-0-26",
+      "to": "refuge-0-east",
+      "distance": 1.1,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-13--lift-0",
+      "from": "corridor-0-13",
+      "to": "lift-0",
+      "distance": 3.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-0--room-1-0",
+      "from": "door-1-0",
+      "to": "room-1-0",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-1--room-1-1",
+      "from": "door-1-1",
+      "to": "room-1-1",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-2--room-1-2",
+      "from": "door-1-2",
+      "to": "room-1-2",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-3--room-1-3",
+      "from": "door-1-3",
+      "to": "room-1-3",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-4--room-1-4",
+      "from": "door-1-4",
+      "to": "room-1-4",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-5--room-1-5",
+      "from": "door-1-5",
+      "to": "room-1-5",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-0--corridor-1-5",
+      "from": "corridor-1-0",
+      "to": "corridor-1-5",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-5--corridor-1-13",
+      "from": "corridor-1-5",
+      "to": "corridor-1-13",
+      "distance": 8.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-13--corridor-1-21",
+      "from": "corridor-1-13",
+      "to": "corridor-1-21",
+      "distance": 8.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-21--corridor-1-26",
+      "from": "corridor-1-21",
+      "to": "corridor-1-26",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-5--door-1-0",
+      "from": "corridor-1-5",
+      "to": "door-1-0",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-13--door-1-1",
+      "from": "corridor-1-13",
+      "to": "door-1-1",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-21--door-1-2",
+      "from": "corridor-1-21",
+      "to": "door-1-2",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-5--door-1-3",
+      "from": "corridor-1-5",
+      "to": "door-1-3",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-13--door-1-4",
+      "from": "corridor-1-13",
+      "to": "door-1-4",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-21--door-1-5",
+      "from": "corridor-1-21",
+      "to": "door-1-5",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-0--refuge-1-west",
+      "from": "corridor-1-0",
+      "to": "refuge-1-west",
+      "distance": 1.1,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-26--refuge-1-east",
+      "from": "corridor-1-26",
+      "to": "refuge-1-east",
+      "distance": 1.1,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-13--lift-1",
+      "from": "corridor-1-13",
+      "to": "lift-1",
+      "distance": 3.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-0--room-2-0",
+      "from": "door-2-0",
+      "to": "room-2-0",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-1--room-2-1",
+      "from": "door-2-1",
+      "to": "room-2-1",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-2--room-2-2",
+      "from": "door-2-2",
+      "to": "room-2-2",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-3--room-2-3",
+      "from": "door-2-3",
+      "to": "room-2-3",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-4--room-2-4",
+      "from": "door-2-4",
+      "to": "room-2-4",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-5--room-2-5",
+      "from": "door-2-5",
+      "to": "room-2-5",
+      "distance": 2.95,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-0--corridor-2-5",
+      "from": "corridor-2-0",
+      "to": "corridor-2-5",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-5--corridor-2-13",
+      "from": "corridor-2-5",
+      "to": "corridor-2-13",
+      "distance": 8.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-13--corridor-2-21",
+      "from": "corridor-2-13",
+      "to": "corridor-2-21",
+      "distance": 8.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-21--corridor-2-26",
+      "from": "corridor-2-21",
+      "to": "corridor-2-26",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-5--door-2-0",
+      "from": "corridor-2-5",
+      "to": "door-2-0",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-13--door-2-1",
+      "from": "corridor-2-13",
+      "to": "door-2-1",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-21--door-2-2",
+      "from": "corridor-2-21",
+      "to": "door-2-2",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-5--door-2-3",
+      "from": "corridor-2-5",
+      "to": "door-2-3",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-13--door-2-4",
+      "from": "corridor-2-13",
+      "to": "door-2-4",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-21--door-2-5",
+      "from": "corridor-2-21",
+      "to": "door-2-5",
+      "distance": 1.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-0--refuge-2-west",
+      "from": "corridor-2-0",
+      "to": "refuge-2-west",
+      "distance": 1.1,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-26--refuge-2-east",
+      "from": "corridor-2-26",
+      "to": "refuge-2-east",
+      "distance": 1.1,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-2-13--lift-2",
+      "from": "corridor-2-13",
+      "to": "lift-2",
+      "distance": 3.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-0--stairs-0-west-bottom",
+      "from": "corridor-0-0",
+      "to": "stairs-0-west-bottom",
+      "distance": 1.77,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-0-west-bottom--stairs-1-west-top",
+      "from": "stairs-0-west-bottom",
+      "to": "stairs-1-west-top",
+      "distance": 6.85,
+      "kind": "stairs",
+      "accessible": false,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-1-west-top--stairs-1-west-return",
+      "from": "stairs-1-west-top",
+      "to": "stairs-1-west-return",
+      "distance": 1.25,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-1-west-return--stairs-1-west-hall",
+      "from": "stairs-1-west-return",
+      "to": "stairs-1-west-hall",
+      "distance": 7.45,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-1-west-hall--corridor-1-0",
+      "from": "stairs-1-west-hall",
+      "to": "corridor-1-0",
+      "distance": 1.5,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-26--stairs-0-east-bottom",
+      "from": "corridor-0-26",
+      "to": "stairs-0-east-bottom",
+      "distance": 1.77,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-0-east-bottom--stairs-1-east-top",
+      "from": "stairs-0-east-bottom",
+      "to": "stairs-1-east-top",
+      "distance": 6.85,
+      "kind": "stairs",
+      "accessible": false,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-1-east-top--stairs-1-east-return",
+      "from": "stairs-1-east-top",
+      "to": "stairs-1-east-return",
+      "distance": 1.25,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-1-east-return--stairs-1-east-hall",
+      "from": "stairs-1-east-return",
+      "to": "stairs-1-east-hall",
+      "distance": 7.45,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-1-east-hall--corridor-1-26",
+      "from": "stairs-1-east-hall",
+      "to": "corridor-1-26",
+      "distance": 1.5,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "lift-0--lift-1",
+      "from": "lift-0",
+      "to": "lift-1",
+      "distance": 3.8,
+      "kind": "elevator",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "corridor-1-0--stairs-1-west-bottom",
+      "from": "corridor-1-0",
+      "to": "stairs-1-west-bottom",
+      "distance": 1.77,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-1-west-bottom--stairs-2-west-top",
+      "from": "stairs-1-west-bottom",
+      "to": "stairs-2-west-top",
+      "distance": 6.85,
+      "kind": "stairs",
+      "accessible": false,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-2-west-top--stairs-2-west-return",
+      "from": "stairs-2-west-top",
+      "to": "stairs-2-west-return",
+      "distance": 1.25,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-2-west-return--stairs-2-west-hall",
+      "from": "stairs-2-west-return",
+      "to": "stairs-2-west-hall",
+      "distance": 7.45,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-2-west-hall--corridor-2-0",
+      "from": "stairs-2-west-hall",
+      "to": "corridor-2-0",
+      "distance": 1.5,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-1-26--stairs-1-east-bottom",
+      "from": "corridor-1-26",
+      "to": "stairs-1-east-bottom",
+      "distance": 1.77,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-1-east-bottom--stairs-2-east-top",
+      "from": "stairs-1-east-bottom",
+      "to": "stairs-2-east-top",
+      "distance": 6.85,
+      "kind": "stairs",
+      "accessible": false,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-2-east-top--stairs-2-east-return",
+      "from": "stairs-2-east-top",
+      "to": "stairs-2-east-return",
+      "distance": 1.25,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-2-east-return--stairs-2-east-hall",
+      "from": "stairs-2-east-return",
+      "to": "stairs-2-east-hall",
+      "distance": 7.45,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stairs-2-east-hall--corridor-2-26",
+      "from": "stairs-2-east-hall",
+      "to": "corridor-2-26",
+      "distance": 1.5,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "lift-1--lift-2",
+      "from": "lift-1",
+      "to": "lift-2",
+      "distance": 3.8,
+      "kind": "elevator",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "entrance--room-0-4",
+      "from": "entrance",
+      "to": "room-0-4",
+      "distance": 4.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-0-4--door-0-4",
+      "from": "room-0-4",
+      "to": "door-0-4",
+      "distance": 2.95,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-0--exit-west",
+      "from": "corridor-0-0",
+      "to": "exit-west",
+      "distance": 2.8,
+      "kind": "outside",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "exit-west--assembly-west",
+      "from": "exit-west",
+      "to": "assembly-west",
+      "distance": 3.2,
+      "kind": "outside",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corridor-0-26--exit-east",
+      "from": "corridor-0-26",
+      "to": "exit-east",
+      "distance": 2.8,
+      "kind": "outside",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "exit-east--assembly-east",
+      "from": "exit-east",
+      "to": "assembly-east",
+      "distance": 3.2,
+      "kind": "outside",
+      "accessible": true,
+      "evacuation": true
+    }
+  ],
+  "model": "building.glb",
+  "instructions": {
+    "assistance": "If no step-free exit route is available, move only to a reachable designated assistance point and follow staff instructions. This fictional demo is not an approved emergency plan.",
+    "emergency": "Routes use the stored plan, not live hazard information. Follow building signs and emergency personnel."
+  }
+}

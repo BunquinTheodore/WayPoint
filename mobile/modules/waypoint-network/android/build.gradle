@@ -1,0 +1,5 @@
+apply plugin: 'com.android.library'
+apply plugin: 'expo-module-gradle-plugin'
+group = 'expo.modules.waypointnetwork'
+version = '0.1.0'
+android { namespace 'expo.modules.waypointnetwork'; defaultConfig { versionCode 1; versionName '0.1.0' } }

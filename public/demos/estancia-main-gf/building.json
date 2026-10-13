@@ -1,0 +1,6713 @@
+{
+  "id": "estancia-main-gf",
+  "name": "Estancia · Main Mall GF",
+  "version": "1.2.0",
+  "schemaVersion": 1,
+  "reviewDate": "2026-10-09",
+  "floors": [
+    {
+      "id": 0,
+      "name": "Main Mall · Ground floor",
+      "height": 0
+    }
+  ],
+  "rooms": [
+    {
+      "id": "store-4974",
+      "name": "Owndays",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Owndays. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "owndays"
+      ],
+      "floor": 0,
+      "position": [
+        -33.3,
+        0.18,
+        5.2
+      ],
+      "size": [
+        10.600000000000001,
+        10.000000000000002
+      ],
+      "node": "store-4974",
+      "footprint": [
+        [
+          -38.2,
+          0.2
+        ],
+        [
+          -32.4,
+          0.2
+        ],
+        [
+          -32.6,
+          6.2
+        ],
+        [
+          -28.0,
+          6.2
+        ],
+        [
+          -28.200000000000003,
+          8.8
+        ],
+        [
+          -28.6,
+          10.200000000000001
+        ],
+        [
+          -31.400000000000002,
+          10.200000000000001
+        ],
+        [
+          -31.8,
+          7.4
+        ],
+        [
+          -38.6,
+          7.2
+        ]
+      ]
+    },
+    {
+      "id": "store-4975",
+      "name": "Skoop",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Skoop. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "skoop"
+      ],
+      "floor": 0,
+      "position": [
+        -30.200000000000003,
+        0.18,
+        3.1
+      ],
+      "size": [
+        4.800000000000001,
+        5.8
+      ],
+      "node": "store-4975",
+      "footprint": [
+        [
+          -32.2,
+          0.2
+        ],
+        [
+          -27.8,
+          0.2
+        ],
+        [
+          -28.200000000000003,
+          6.0
+        ],
+        [
+          -32.6,
+          6.0
+        ]
+      ]
+    },
+    {
+      "id": "store-4980",
+      "name": "West Elm",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: West Elm. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "west elm"
+      ],
+      "floor": 0,
+      "position": [
+        -18.0,
+        0.18,
+        10.1
+      ],
+      "size": [
+        20.0,
+        19.8
+      ],
+      "node": "store-4980",
+      "footprint": [
+        [
+          -27.8,
+          0.2
+        ],
+        [
+          -8.0,
+          0.4
+        ],
+        [
+          -8.200000000000001,
+          3.4000000000000004
+        ],
+        [
+          -8.6,
+          20.0
+        ],
+        [
+          -21.8,
+          20.0
+        ],
+        [
+          -22.0,
+          10.4
+        ],
+        [
+          -23.400000000000002,
+          10.4
+        ],
+        [
+          -23.400000000000002,
+          8.6
+        ],
+        [
+          -28.0,
+          8.4
+        ]
+      ]
+    },
+    {
+      "id": "store-4984",
+      "name": "Levi's",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Levi's. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "levi's"
+      ],
+      "floor": 0,
+      "position": [
+        35.400000000000006,
+        0.18,
+        3.9000000000000004
+      ],
+      "size": [
+        10.000000000000004,
+        7.4
+      ],
+      "node": "store-4984",
+      "footprint": [
+        [
+          30.8,
+          0.2
+        ],
+        [
+          40.400000000000006,
+          0.2
+        ],
+        [
+          40.2,
+          7.6000000000000005
+        ],
+        [
+          30.400000000000002,
+          7.6000000000000005
+        ]
+      ]
+    },
+    {
+      "id": "store-4990",
+      "name": "Hai Chix & Steaks",
+      "category": "food",
+      "description": "Official Main Mall GF map: Hai Chix & Steaks. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "hai chix & steaks"
+      ],
+      "floor": 0,
+      "position": [
+        50.0,
+        0.18,
+        32.2
+      ],
+      "size": [
+        12.800000000000004,
+        17.599999999999998
+      ],
+      "node": "store-4990",
+      "footprint": [
+        [
+          43.800000000000004,
+          27.400000000000002
+        ],
+        [
+          43.6,
+          31.6
+        ],
+        [
+          56.400000000000006,
+          41.0
+        ],
+        [
+          56.2,
+          23.400000000000002
+        ],
+        [
+          51.6,
+          24.0
+        ],
+        [
+          50.2,
+          25.8
+        ],
+        [
+          50.2,
+          27.400000000000002
+        ]
+      ]
+    },
+    {
+      "id": "store-5025",
+      "name": "Dough&Grocer",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Dough&Grocer. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "dough&grocer"
+      ],
+      "floor": 0,
+      "position": [
+        -39.900000000000006,
+        0.18,
+        -13.4
+      ],
+      "size": [
+        17.800000000000004,
+        13.8
+      ],
+      "node": "store-5025",
+      "footprint": [
+        [
+          -48.400000000000006,
+          -19.3
+        ],
+        [
+          -48.800000000000004,
+          -9.5
+        ],
+        [
+          -38.2,
+          -9.5
+        ],
+        [
+          -38.6,
+          -6.5
+        ],
+        [
+          -34.4,
+          -6.9
+        ],
+        [
+          -34.4,
+          -14.5
+        ],
+        [
+          -31.0,
+          -14.3
+        ],
+        [
+          -31.200000000000003,
+          -20.3
+        ]
+      ]
+    },
+    {
+      "id": "store-5028",
+      "name": "Pottery Barn",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Pottery Barn. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "pottery barn",
+        "home furniture",
+        "sofa",
+        "home decor"
+      ],
+      "floor": 0,
+      "position": [
+        -18.8,
+        0.18,
+        -22.200000000000003
+      ],
+      "size": [
+        20.800000000000004,
+        31.200000000000003
+      ],
+      "node": "store-5028",
+      "footprint": [
+        [
+          -29.200000000000003,
+          -31.400000000000002
+        ],
+        [
+          -25.8,
+          -37.800000000000004
+        ],
+        [
+          -8.4,
+          -28.200000000000003
+        ],
+        [
+          -8.4,
+          -6.6000000000000005
+        ],
+        [
+          -26.6,
+          -6.800000000000001
+        ],
+        [
+          -26.6,
+          -12.600000000000001
+        ],
+        [
+          -22.200000000000003,
+          -12.600000000000001
+        ],
+        [
+          -22.8,
+          -16.2
+        ],
+        [
+          -22.200000000000003,
+          -21.8
+        ],
+        [
+          -28.8,
+          -22.400000000000002
+        ]
+      ]
+    },
+    {
+      "id": "store-5656",
+      "name": "Power Mac Center",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Power Mac Center. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "power mac center",
+        "buy a MacBook",
+        "Apple computer",
+        "laptop",
+        "Apple accessories"
+      ],
+      "floor": 0,
+      "position": [
+        64.05141601562501,
+        0.18,
+        -13.326983642578126
+      ],
+      "size": [
+        7.000024414062501,
+        12.800048828125004
+      ],
+      "node": "store-5656",
+      "footprint": [
+        [
+          60.75140380859375,
+          -19.727008056640628
+        ],
+        [
+          67.55142822265626,
+          -19.727008056640628
+        ],
+        [
+          67.35142822265625,
+          -6.926959228515625
+        ],
+        [
+          63.551416015625,
+          -6.926959228515625
+        ],
+        [
+          63.351416015625006,
+          -9.326971435546875
+        ],
+        [
+          60.551403808593754,
+          -9.526971435546875
+        ]
+      ]
+    },
+    {
+      "id": "store-5659",
+      "name": "Pacsports",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Pacsports. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "pacsports"
+      ],
+      "floor": 0,
+      "position": [
+        47.15135498046875,
+        0.18,
+        -14.571520996093751
+      ],
+      "size": [
+        6.4000244140625,
+        10.000036621093752
+      ],
+      "node": "store-5659",
+      "footprint": [
+        [
+          44.151342773437506,
+          -19.571539306640627
+        ],
+        [
+          50.3513671875,
+          -19.571539306640627
+        ],
+        [
+          50.3513671875,
+          -9.771502685546876
+        ],
+        [
+          43.9513427734375,
+          -9.571502685546875
+        ]
+      ]
+    },
+    {
+      "id": "store-5662",
+      "name": "12 Monkeys Music Hall & Pub",
+      "category": "food",
+      "description": "Official Main Mall GF map: 12 Monkeys Music Hall & Pub. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "12 monkeys music hall & pub"
+      ],
+      "floor": 0,
+      "position": [
+        19.5,
+        0.18,
+        -21.6
+      ],
+      "size": [
+        17.400000000000002,
+        29.200000000000003
+      ],
+      "node": "store-5662",
+      "footprint": [
+        [
+          11.200000000000001,
+          -28.8
+        ],
+        [
+          24.8,
+          -36.0
+        ],
+        [
+          28.0,
+          -36.2
+        ],
+        [
+          28.200000000000003,
+          -20.0
+        ],
+        [
+          24.200000000000003,
+          -19.8
+        ],
+        [
+          24.0,
+          -17.400000000000002
+        ],
+        [
+          23.8,
+          -7.0
+        ],
+        [
+          10.8,
+          -7.0
+        ]
+      ]
+    },
+    {
+      "id": "store-7824",
+      "name": "SONY",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: SONY. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "sony"
+      ],
+      "floor": 0,
+      "position": [
+        35.301306152343756,
+        0.18,
+        -3.3269470214843753
+      ],
+      "size": [
+        2.8000000000000043,
+        2.8000122070312505
+      ],
+      "node": "store-7824",
+      "footprint": [
+        [
+          34.50130615234375,
+          -4.526953125
+        ],
+        [
+          36.701306152343754,
+          -4.526953125
+        ],
+        [
+          36.50130615234375,
+          -1.92694091796875
+        ],
+        [
+          34.10130615234375,
+          -1.92694091796875
+        ],
+        [
+          33.90130615234375,
+          -4.526953125
+        ],
+        [
+          36.50130615234375,
+          -4.7269531250000005
+        ]
+      ]
+    },
+    {
+      "id": "store-7831",
+      "name": "Florabel",
+      "category": "food",
+      "description": "Official Main Mall GF map: Florabel. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "florabel"
+      ],
+      "floor": 0,
+      "position": [
+        17.414282226562502,
+        0.18,
+        15.914282226562502
+      ],
+      "size": [
+        13.000000000000002,
+        7.600000000000001
+      ],
+      "node": "store-7831",
+      "footprint": [
+        [
+          11.3142822265625,
+          12.114282226562501
+        ],
+        [
+          23.914282226562502,
+          12.114282226562501
+        ],
+        [
+          23.3142822265625,
+          19.714282226562503
+        ],
+        [
+          10.9142822265625,
+          19.714282226562503
+        ]
+      ]
+    },
+    {
+      "id": "store-7834",
+      "name": "Styles Asia Home",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Styles Asia Home. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "styles asia home"
+      ],
+      "floor": 0,
+      "position": [
+        -31.60000610351563,
+        0.18,
+        -10.700000000000001
+      ],
+      "size": [
+        5.600000000000001,
+        7.000000000000001
+      ],
+      "node": "store-7834",
+      "footprint": [
+        [
+          -34.40000610351563,
+          -14.200000000000001
+        ],
+        [
+          -28.800006103515628,
+          -14.200000000000001
+        ],
+        [
+          -28.800006103515628,
+          -7.2
+        ],
+        [
+          -34.000006103515624,
+          -7.2
+        ]
+      ]
+    },
+    {
+      "id": "store-7846",
+      "name": "Restrooms · west",
+      "category": "facilities",
+      "description": "Official Main Mall GF map: Restrooms · west. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "bathroom",
+        "restroom",
+        "bathroom",
+        "toilet"
+      ],
+      "floor": 0,
+      "position": [
+        -27.060003662109377,
+        0.18,
+        -17.6
+      ],
+      "size": [
+        7.399999999999999,
+        5.600000000000001
+      ],
+      "node": "store-7846",
+      "footprint": [
+        [
+          -30.760003662109376,
+          -20.400000000000002
+        ],
+        [
+          -23.360003662109378,
+          -20.400000000000002
+        ],
+        [
+          -23.760003662109376,
+          -14.8
+        ],
+        [
+          -30.560003662109377,
+          -15.0
+        ]
+      ]
+    },
+    {
+      "id": "store-7849",
+      "name": "Restrooms · east",
+      "category": "facilities",
+      "description": "Official Main Mall GF map: Restrooms · east. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "bathroom",
+        "restroom",
+        "bathroom",
+        "toilet"
+      ],
+      "floor": 0,
+      "position": [
+        30.566662597656254,
+        0.18,
+        -17.33333740234375
+      ],
+      "size": [
+        5.0000000000000036,
+        5.200000000000003
+      ],
+      "node": "store-7849",
+      "footprint": [
+        [
+          28.466662597656253,
+          -19.933337402343753
+        ],
+        [
+          33.066662597656254,
+          -19.933337402343753
+        ],
+        [
+          32.66666259765625,
+          -14.73333740234375
+        ],
+        [
+          28.06666259765625,
+          -14.933337402343751
+        ]
+      ]
+    },
+    {
+      "id": "store-9109",
+      "name": "HLA",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: HLA. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "hla"
+      ],
+      "floor": 0,
+      "position": [
+        -44.39900207519531,
+        0.18,
+        11.369207763671875
+      ],
+      "size": [
+        7.800030517578129,
+        10.200036621093748
+      ],
+      "node": "store-9109",
+      "footprint": [
+        [
+          -48.09901733398438,
+          6.2691894531250005
+        ],
+        [
+          -40.49898681640625,
+          6.2691894531250005
+        ],
+        [
+          -40.698986816406254,
+          16.26922607421875
+        ],
+        [
+          -48.29901733398438,
+          16.46922607421875
+        ]
+      ]
+    },
+    {
+      "id": "store-9110",
+      "name": "@Tokyo",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: @Tokyo. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "@tokyo"
+      ],
+      "floor": 0,
+      "position": [
+        -55.8990463256836,
+        0.18,
+        10.019201660156252
+      ],
+      "size": [
+        14.800057983398439,
+        12.800048828125002
+      ],
+      "node": "store-9110",
+      "footprint": [
+        [
+          -63.299075317382815,
+          3.6191772460937504
+        ],
+        [
+          -61.29906921386719,
+          3.6191772460937504
+        ],
+        [
+          -61.49906921386719,
+          6.619189453125
+        ],
+        [
+          -48.499017333984376,
+          6.619189453125
+        ],
+        [
+          -48.69901733398438,
+          16.419226074218752
+        ],
+        [
+          -59.89906311035156,
+          16.21922607421875
+        ],
+        [
+          -59.89906311035156,
+          12.01920166015625
+        ],
+        [
+          -61.899072265625,
+          12.01920166015625
+        ]
+      ]
+    },
+    {
+      "id": "store-9429",
+      "name": "Prologue",
+      "category": "food",
+      "description": "Official Main Mall GF map: Prologue. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "prologue"
+      ],
+      "floor": 0,
+      "position": [
+        -58.42226562500001,
+        0.18,
+        -13.233203125000001
+      ],
+      "size": [
+        18.6,
+        12.2
+      ],
+      "node": "store-9429",
+      "footprint": [
+        [
+          -67.722265625,
+          -19.133203125
+        ],
+        [
+          -49.122265625000004,
+          -19.333203125
+        ],
+        [
+          -49.722265625000006,
+          -11.133203125000001
+        ],
+        [
+          -61.722265625000006,
+          -10.933203125
+        ],
+        [
+          -61.722265625000006,
+          -7.1332031250000005
+        ],
+        [
+          -67.722265625,
+          -7.1332031250000005
+        ]
+      ]
+    },
+    {
+      "id": "store-9448",
+      "name": "Evernew",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Evernew. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "evernew"
+      ],
+      "floor": 0,
+      "position": [
+        37.43828125,
+        0.18,
+        -11.881250000000001
+      ],
+      "size": [
+        8.5234375,
+        9.0
+      ],
+      "node": "store-9448",
+      "footprint": [
+        [
+          36.5765625,
+          -7.3812500000000005
+        ],
+        [
+          41.7,
+          -7.800000000000001
+        ],
+        [
+          38.9765625,
+          -10.18125
+        ],
+        [
+          39.776562500000004,
+          -16.38125
+        ],
+        [
+          33.1765625,
+          -16.38125
+        ],
+        [
+          33.1765625,
+          -14.981250000000001
+        ],
+        [
+          36.1765625,
+          -14.981250000000001
+        ]
+      ]
+    },
+    {
+      "id": "store-9450",
+      "name": "iStudio Plus",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: iStudio Plus. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "istudio plus"
+      ],
+      "floor": 0,
+      "position": [
+        41.6,
+        0.18,
+        -10.58125
+      ],
+      "size": [
+        10.200000000000003,
+        9.2
+      ],
+      "node": "store-9450",
+      "footprint": [
+        [
+          33.9765625,
+          -19.78125
+        ],
+        [
+          43.776562500000004,
+          -19.78125
+        ],
+        [
+          43.5765625,
+          -10.58125
+        ],
+        [
+          40.376562500000006,
+          -10.58125
+        ],
+        [
+          40.1765625,
+          -16.58125
+        ],
+        [
+          33.5765625,
+          -16.78125
+        ]
+      ]
+    },
+    {
+      "id": "store-9451",
+      "name": "Samsung",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Samsung. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "samsung",
+        "Samsung phone",
+        "smartphone",
+        "electronics"
+      ],
+      "floor": 0,
+      "position": [
+        53.0765625,
+        0.18,
+        -14.58125
+      ],
+      "size": [
+        5.0,
+        10.200000000000001
+      ],
+      "node": "store-9451",
+      "footprint": [
+        [
+          50.5765625,
+          -19.681250000000002
+        ],
+        [
+          55.5765625,
+          -19.681250000000002
+        ],
+        [
+          55.5765625,
+          -9.68125
+        ],
+        [
+          50.776562500000004,
+          -9.481250000000001
+        ]
+      ]
+    },
+    {
+      "id": "store-9454",
+      "name": "Sunglass Haven",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Sunglass Haven. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "sunglass haven"
+      ],
+      "floor": 0,
+      "position": [
+        57.9765625,
+        0.18,
+        -14.756250000000001
+      ],
+      "size": [
+        4.800000000000004,
+        10.0
+      ],
+      "node": "store-9454",
+      "footprint": [
+        [
+          55.5765625,
+          -19.75625
+        ],
+        [
+          60.376562500000006,
+          -19.75625
+        ],
+        [
+          60.1765625,
+          -9.756250000000001
+        ],
+        [
+          55.5765625,
+          -9.756250000000001
+        ]
+      ]
+    },
+    {
+      "id": "store-9488",
+      "name": "Cibo",
+      "category": "food",
+      "description": "Official Main Mall GF map: Cibo. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "cibo"
+      ],
+      "floor": 0,
+      "position": [
+        17.200000000000003,
+        0.18,
+        5.1
+      ],
+      "size": [
+        13.2,
+        9.8
+      ],
+      "node": "store-9488",
+      "footprint": [
+        [
+          10.600000000000001,
+          0.4
+        ],
+        [
+          23.8,
+          0.2
+        ],
+        [
+          23.8,
+          9.0
+        ],
+        [
+          11.3,
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "store-9678",
+      "name": "Chagee",
+      "category": "food",
+      "description": "Official Main Mall GF map: Chagee. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "chagee",
+        "tea",
+        "milk tea",
+        "drink"
+      ],
+      "floor": 0,
+      "position": [
+        27.400000000000002,
+        0.18,
+        4.4
+      ],
+      "size": [
+        6.399999999999999,
+        7.800000000000001
+      ],
+      "node": "store-9678",
+      "footprint": [
+        [
+          24.200000000000003,
+          0.5
+        ],
+        [
+          30.6,
+          0.5
+        ],
+        [
+          30.6,
+          8.1
+        ],
+        [
+          24.400000000000002,
+          8.3
+        ]
+      ]
+    },
+    {
+      "id": "store-9710",
+      "name": "Yves Rocher",
+      "category": "shopping",
+      "description": "Official Main Mall GF map: Yves Rocher. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "yves rocher"
+      ],
+      "floor": 0,
+      "position": [
+        26.933673095703128,
+        0.18,
+        -10.3248291015625
+      ],
+      "size": [
+        5.465979003906252,
+        6.9503417968750005
+      ],
+      "node": "store-9710",
+      "footprint": [
+        [
+          24.20068359375,
+          -12.249658203125001
+        ],
+        [
+          29.666662597656252,
+          -13.8
+        ],
+        [
+          28.80068359375,
+          -7.449658203125001
+        ],
+        [
+          24.80068359375,
+          -6.849658203125
+        ]
+      ]
+    },
+    {
+      "id": "store-9930",
+      "name": "Wolhwa Galbi",
+      "category": "food",
+      "description": "Official Main Mall GF map: Wolhwa Galbi. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "wolhwa galbi"
+      ],
+      "floor": 0,
+      "position": [
+        62.0,
+        0.18,
+        32.7
+      ],
+      "size": [
+        11.599999999999994,
+        19.0
+      ],
+      "node": "store-9930",
+      "footprint": [
+        [
+          56.800000000000004,
+          23.200000000000003
+        ],
+        [
+          67.8,
+          23.6
+        ],
+        [
+          67.8,
+          30.6
+        ],
+        [
+          58.800000000000004,
+          42.2
+        ],
+        [
+          56.2,
+          40.800000000000004
+        ]
+      ]
+    },
+    {
+      "id": "store-9932",
+      "name": "Heybo",
+      "category": "food",
+      "description": "Official Main Mall GF map: Heybo. Published store outline; doorway and dimensions are estimated. Furnishings use reusable CC0 props and illustrative arrangements, not verified tenant fit-outs. Navigation ends at the modeled storefront.",
+      "aliases": [
+        "heybo"
+      ],
+      "floor": 0,
+      "position": [
+        -26.1,
+        0.18,
+        19.3
+      ],
+      "size": [
+        8.600000000000001,
+        9.200000000000001
+      ],
+      "node": "store-9932",
+      "footprint": [
+        [
+          -30.200000000000003,
+          14.700000000000001
+        ],
+        [
+          -28.6,
+          14.700000000000001
+        ],
+        [
+          -28.8,
+          16.5
+        ],
+        [
+          -22.200000000000003,
+          16.5
+        ],
+        [
+          -21.8,
+          21.900000000000002
+        ],
+        [
+          -27.6,
+          23.900000000000002
+        ],
+        [
+          -28.400000000000002,
+          22.700000000000003
+        ],
+        [
+          -29.400000000000002,
+          22.900000000000002
+        ],
+        [
+          -30.400000000000002,
+          20.900000000000002
+        ]
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "id": "gallery-0",
+      "floor": 0,
+      "position": [
+        -60.800000000000004,
+        0.18,
+        -9.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-1",
+      "floor": 0,
+      "position": [
+        -60.800000000000004,
+        0.18,
+        4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-2",
+      "floor": 0,
+      "position": [
+        -60.0,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-3",
+      "floor": 0,
+      "position": [
+        -60.0,
+        0.18,
+        3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-4",
+      "floor": 0,
+      "position": [
+        -58.400000000000006,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-5",
+      "floor": 0,
+      "position": [
+        -57.6,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-6",
+      "floor": 0,
+      "position": [
+        -47.2,
+        0.18,
+        -9.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-7",
+      "floor": 0,
+      "position": [
+        -46.400000000000006,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-8",
+      "floor": 0,
+      "position": [
+        -44.800000000000004,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-9",
+      "floor": 0,
+      "position": [
+        -44.0,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-10",
+      "floor": 0,
+      "position": [
+        -42.400000000000006,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-11",
+      "floor": 0,
+      "position": [
+        -41.6,
+        0.18,
+        2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-12",
+      "floor": 0,
+      "position": [
+        -41.6,
+        0.18,
+        3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-13",
+      "floor": 0,
+      "position": [
+        -40.800000000000004,
+        0.18,
+        -6.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-14",
+      "floor": 0,
+      "position": [
+        -40.0,
+        0.18,
+        -6.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-15",
+      "floor": 0,
+      "position": [
+        -40.0,
+        0.18,
+        8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-16",
+      "floor": 0,
+      "position": [
+        -39.2,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-17",
+      "floor": 0,
+      "position": [
+        -39.2,
+        0.18,
+        0.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-18",
+      "floor": 0,
+      "position": [
+        -39.2,
+        0.18,
+        7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-19",
+      "floor": 0,
+      "position": [
+        -38.400000000000006,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-20",
+      "floor": 0,
+      "position": [
+        -38.400000000000006,
+        0.18,
+        -0.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-21",
+      "floor": 0,
+      "position": [
+        -37.6,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-22",
+      "floor": 0,
+      "position": [
+        -37.6,
+        0.18,
+        -0.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-23",
+      "floor": 0,
+      "position": [
+        -37.6,
+        0.18,
+        7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-24",
+      "floor": 0,
+      "position": [
+        -36.800000000000004,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-25",
+      "floor": 0,
+      "position": [
+        -36.800000000000004,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-26",
+      "floor": 0,
+      "position": [
+        -36.0,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-27",
+      "floor": 0,
+      "position": [
+        -35.2,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-28",
+      "floor": 0,
+      "position": [
+        -31.200000000000003,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-29",
+      "floor": 0,
+      "position": [
+        -30.400000000000002,
+        0.18,
+        -2.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-30",
+      "floor": 0,
+      "position": [
+        -30.400000000000002,
+        0.18,
+        22.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-31",
+      "floor": 0,
+      "position": [
+        -30.400000000000002,
+        0.18,
+        22.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-32",
+      "floor": 0,
+      "position": [
+        -29.6,
+        0.18,
+        -6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-33",
+      "floor": 0,
+      "position": [
+        -29.6,
+        0.18,
+        23.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-34",
+      "floor": 0,
+      "position": [
+        -29.6,
+        0.18,
+        26.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-35",
+      "floor": 0,
+      "position": [
+        -28.8,
+        0.18,
+        -6.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-36",
+      "floor": 0,
+      "position": [
+        -28.8,
+        0.18,
+        -2.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-37",
+      "floor": 0,
+      "position": [
+        -28.0,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-38",
+      "floor": 0,
+      "position": [
+        -28.0,
+        0.18,
+        27.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-39",
+      "floor": 0,
+      "position": [
+        -27.200000000000003,
+        0.18,
+        -13.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-40",
+      "floor": 0,
+      "position": [
+        -27.200000000000003,
+        0.18,
+        -10.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-41",
+      "floor": 0,
+      "position": [
+        -27.200000000000003,
+        0.18,
+        -6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-42",
+      "floor": 0,
+      "position": [
+        -27.200000000000003,
+        0.18,
+        -6.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-43",
+      "floor": 0,
+      "position": [
+        -27.200000000000003,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-44",
+      "floor": 0,
+      "position": [
+        -27.200000000000003,
+        0.18,
+        26.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-45",
+      "floor": 0,
+      "position": [
+        -26.400000000000002,
+        0.18,
+        -13.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-46",
+      "floor": 0,
+      "position": [
+        -26.400000000000002,
+        0.18,
+        -6.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-47",
+      "floor": 0,
+      "position": [
+        -26.400000000000002,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-48",
+      "floor": 0,
+      "position": [
+        -26.400000000000002,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-49",
+      "floor": 0,
+      "position": [
+        -26.400000000000002,
+        0.18,
+        26.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-50",
+      "floor": 0,
+      "position": [
+        -25.6,
+        0.18,
+        -14.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-51",
+      "floor": 0,
+      "position": [
+        -25.6,
+        0.18,
+        -6.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-52",
+      "floor": 0,
+      "position": [
+        -25.6,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-53",
+      "floor": 0,
+      "position": [
+        -25.6,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-54",
+      "floor": 0,
+      "position": [
+        -25.6,
+        0.18,
+        26.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-55",
+      "floor": 0,
+      "position": [
+        -24.8,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-56",
+      "floor": 0,
+      "position": [
+        -24.0,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-57",
+      "floor": 0,
+      "position": [
+        -24.0,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-58",
+      "floor": 0,
+      "position": [
+        -24.0,
+        0.18,
+        26.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-59",
+      "floor": 0,
+      "position": [
+        -23.200000000000003,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-60",
+      "floor": 0,
+      "position": [
+        -23.200000000000003,
+        0.18,
+        25.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-61",
+      "floor": 0,
+      "position": [
+        -22.400000000000002,
+        0.18,
+        25.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-62",
+      "floor": 0,
+      "position": [
+        -21.6,
+        0.18,
+        24.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-63",
+      "floor": 0,
+      "position": [
+        -20.0,
+        0.18,
+        24.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-64",
+      "floor": 0,
+      "position": [
+        -19.200000000000003,
+        0.18,
+        23.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-65",
+      "floor": 0,
+      "position": [
+        -18.400000000000002,
+        0.18,
+        23.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-66",
+      "floor": 0,
+      "position": [
+        -17.6,
+        0.18,
+        22.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-67",
+      "floor": 0,
+      "position": [
+        -16.8,
+        0.18,
+        22.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-68",
+      "floor": 0,
+      "position": [
+        -16.0,
+        0.18,
+        22.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-69",
+      "floor": 0,
+      "position": [
+        -15.200000000000001,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-70",
+      "floor": 0,
+      "position": [
+        -14.4,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-71",
+      "floor": 0,
+      "position": [
+        -14.4,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-72",
+      "floor": 0,
+      "position": [
+        -14.4,
+        0.18,
+        22.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-73",
+      "floor": 0,
+      "position": [
+        -13.600000000000001,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-74",
+      "floor": 0,
+      "position": [
+        -13.600000000000001,
+        0.18,
+        21.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-75",
+      "floor": 0,
+      "position": [
+        -12.8,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-76",
+      "floor": 0,
+      "position": [
+        -12.8,
+        0.18,
+        21.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-77",
+      "floor": 0,
+      "position": [
+        -12.0,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-78",
+      "floor": 0,
+      "position": [
+        -12.0,
+        0.18,
+        20.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-79",
+      "floor": 0,
+      "position": [
+        -8.0,
+        0.18,
+        18.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-80",
+      "floor": 0,
+      "position": [
+        -8.0,
+        0.18,
+        20.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-81",
+      "floor": 0,
+      "position": [
+        -6.4,
+        0.18,
+        1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-82",
+      "floor": 0,
+      "position": [
+        -6.4,
+        0.18,
+        7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-83",
+      "floor": 0,
+      "position": [
+        -6.4,
+        0.18,
+        17.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-84",
+      "floor": 0,
+      "position": [
+        -5.6000000000000005,
+        0.18,
+        6.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-85",
+      "floor": 0,
+      "position": [
+        -5.6000000000000005,
+        0.18,
+        6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-86",
+      "floor": 0,
+      "position": [
+        -4.800000000000001,
+        0.18,
+        -0.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-87",
+      "floor": 0,
+      "position": [
+        -4.800000000000001,
+        0.18,
+        5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-88",
+      "floor": 0,
+      "position": [
+        -4.0,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-89",
+      "floor": 0,
+      "position": [
+        -4.0,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-90",
+      "floor": 0,
+      "position": [
+        -3.2,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-91",
+      "floor": 0,
+      "position": [
+        -1.6,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-92",
+      "floor": 0,
+      "position": [
+        0.0,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-93",
+      "floor": 0,
+      "position": [
+        0.8,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "entrance",
+      "floor": 0,
+      "position": [
+        1.6,
+        0.18,
+        -3.6
+      ],
+      "label": "Demo central entrance",
+      "checkpoint": "entrance"
+    },
+    {
+      "id": "gallery-95",
+      "floor": 0,
+      "position": [
+        2.4000000000000004,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-96",
+      "floor": 0,
+      "position": [
+        3.2,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-97",
+      "floor": 0,
+      "position": [
+        4.800000000000001,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-98",
+      "floor": 0,
+      "position": [
+        6.4,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-99",
+      "floor": 0,
+      "position": [
+        6.4,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-100",
+      "floor": 0,
+      "position": [
+        8.0,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-101",
+      "floor": 0,
+      "position": [
+        8.8,
+        0.18,
+        1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-102",
+      "floor": 0,
+      "position": [
+        8.8,
+        0.18,
+        18.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-103",
+      "floor": 0,
+      "position": [
+        9.600000000000001,
+        0.18,
+        2.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-104",
+      "floor": 0,
+      "position": [
+        9.600000000000001,
+        0.18,
+        2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-105",
+      "floor": 0,
+      "position": [
+        9.600000000000001,
+        0.18,
+        3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-106",
+      "floor": 0,
+      "position": [
+        10.4,
+        0.18,
+        2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-107",
+      "floor": 0,
+      "position": [
+        10.4,
+        0.18,
+        3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-108",
+      "floor": 0,
+      "position": [
+        10.4,
+        0.18,
+        4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-109",
+      "floor": 0,
+      "position": [
+        10.4,
+        0.18,
+        10.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-110",
+      "floor": 0,
+      "position": [
+        10.4,
+        0.18,
+        19.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-111",
+      "floor": 0,
+      "position": [
+        10.4,
+        0.18,
+        20.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-112",
+      "floor": 0,
+      "position": [
+        11.200000000000001,
+        0.18,
+        10.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-113",
+      "floor": 0,
+      "position": [
+        12.8,
+        0.18,
+        10.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-114",
+      "floor": 0,
+      "position": [
+        13.600000000000001,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-115",
+      "floor": 0,
+      "position": [
+        13.600000000000001,
+        0.18,
+        11.600000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-116",
+      "floor": 0,
+      "position": [
+        15.200000000000001,
+        0.18,
+        20.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-117",
+      "floor": 0,
+      "position": [
+        16.0,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-118",
+      "floor": 0,
+      "position": [
+        16.0,
+        0.18,
+        20.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-119",
+      "floor": 0,
+      "position": [
+        16.0,
+        0.18,
+        21.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-120",
+      "floor": 0,
+      "position": [
+        16.8,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-121",
+      "floor": 0,
+      "position": [
+        16.8,
+        0.18,
+        21.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-122",
+      "floor": 0,
+      "position": [
+        17.6,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-123",
+      "floor": 0,
+      "position": [
+        17.6,
+        0.18,
+        22.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-124",
+      "floor": 0,
+      "position": [
+        18.400000000000002,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-125",
+      "floor": 0,
+      "position": [
+        18.400000000000002,
+        0.18,
+        22.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-126",
+      "floor": 0,
+      "position": [
+        19.200000000000003,
+        0.18,
+        21.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-127",
+      "floor": 0,
+      "position": [
+        19.200000000000003,
+        0.18,
+        22.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-128",
+      "floor": 0,
+      "position": [
+        20.0,
+        0.18,
+        22.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-129",
+      "floor": 0,
+      "position": [
+        20.0,
+        0.18,
+        22.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-130",
+      "floor": 0,
+      "position": [
+        20.8,
+        0.18,
+        23.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-131",
+      "floor": 0,
+      "position": [
+        21.6,
+        0.18,
+        22.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-132",
+      "floor": 0,
+      "position": [
+        22.400000000000002,
+        0.18,
+        10.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-133",
+      "floor": 0,
+      "position": [
+        22.400000000000002,
+        0.18,
+        22.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-134",
+      "floor": 0,
+      "position": [
+        22.400000000000002,
+        0.18,
+        23.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-135",
+      "floor": 0,
+      "position": [
+        23.200000000000003,
+        0.18,
+        10.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-136",
+      "floor": 0,
+      "position": [
+        23.200000000000003,
+        0.18,
+        24.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-137",
+      "floor": 0,
+      "position": [
+        24.0,
+        0.18,
+        24.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-138",
+      "floor": 0,
+      "position": [
+        24.8,
+        0.18,
+        10.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-139",
+      "floor": 0,
+      "position": [
+        24.8,
+        0.18,
+        22.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-140",
+      "floor": 0,
+      "position": [
+        24.8,
+        0.18,
+        25.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-141",
+      "floor": 0,
+      "position": [
+        25.6,
+        0.18,
+        9.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-142",
+      "floor": 0,
+      "position": [
+        25.6,
+        0.18,
+        23.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-143",
+      "floor": 0,
+      "position": [
+        25.6,
+        0.18,
+        25.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-144",
+      "floor": 0,
+      "position": [
+        26.400000000000002,
+        0.18,
+        26.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-145",
+      "floor": 0,
+      "position": [
+        27.200000000000003,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-146",
+      "floor": 0,
+      "position": [
+        27.200000000000003,
+        0.18,
+        23.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-147",
+      "floor": 0,
+      "position": [
+        27.200000000000003,
+        0.18,
+        26.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-148",
+      "floor": 0,
+      "position": [
+        28.0,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-149",
+      "floor": 0,
+      "position": [
+        28.0,
+        0.18,
+        24.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-150",
+      "floor": 0,
+      "position": [
+        28.0,
+        0.18,
+        26.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-151",
+      "floor": 0,
+      "position": [
+        28.8,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-152",
+      "floor": 0,
+      "position": [
+        28.8,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-153",
+      "floor": 0,
+      "position": [
+        28.8,
+        0.18,
+        26.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-154",
+      "floor": 0,
+      "position": [
+        29.6,
+        0.18,
+        -10.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-155",
+      "floor": 0,
+      "position": [
+        29.6,
+        0.18,
+        -9.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-156",
+      "floor": 0,
+      "position": [
+        29.6,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-157",
+      "floor": 0,
+      "position": [
+        29.6,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-158",
+      "floor": 0,
+      "position": [
+        29.6,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-159",
+      "floor": 0,
+      "position": [
+        29.6,
+        0.18,
+        27.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-160",
+      "floor": 0,
+      "position": [
+        30.400000000000002,
+        0.18,
+        -10.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-161",
+      "floor": 0,
+      "position": [
+        30.400000000000002,
+        0.18,
+        -10.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-162",
+      "floor": 0,
+      "position": [
+        30.400000000000002,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-163",
+      "floor": 0,
+      "position": [
+        30.400000000000002,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-164",
+      "floor": 0,
+      "position": [
+        30.400000000000002,
+        0.18,
+        24.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-165",
+      "floor": 0,
+      "position": [
+        31.200000000000003,
+        0.18,
+        -13.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-166",
+      "floor": 0,
+      "position": [
+        31.200000000000003,
+        0.18,
+        -11.600000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-167",
+      "floor": 0,
+      "position": [
+        31.200000000000003,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-168",
+      "floor": 0,
+      "position": [
+        31.200000000000003,
+        0.18,
+        -2.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-169",
+      "floor": 0,
+      "position": [
+        31.200000000000003,
+        0.18,
+        25.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-170",
+      "floor": 0,
+      "position": [
+        31.200000000000003,
+        0.18,
+        27.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-171",
+      "floor": 0,
+      "position": [
+        32.0,
+        0.18,
+        -14.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-172",
+      "floor": 0,
+      "position": [
+        32.0,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-173",
+      "floor": 0,
+      "position": [
+        32.0,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-174",
+      "floor": 0,
+      "position": [
+        32.0,
+        0.18,
+        28.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-175",
+      "floor": 0,
+      "position": [
+        32.800000000000004,
+        0.18,
+        -4.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-176",
+      "floor": 0,
+      "position": [
+        32.800000000000004,
+        0.18,
+        -3.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-177",
+      "floor": 0,
+      "position": [
+        32.800000000000004,
+        0.18,
+        -2.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-178",
+      "floor": 0,
+      "position": [
+        32.800000000000004,
+        0.18,
+        28.400000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-179",
+      "floor": 0,
+      "position": [
+        33.6,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-180",
+      "floor": 0,
+      "position": [
+        33.6,
+        0.18,
+        -2.8000000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-181",
+      "floor": 0,
+      "position": [
+        33.6,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-182",
+      "floor": 0,
+      "position": [
+        33.6,
+        0.18,
+        29.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-183",
+      "floor": 0,
+      "position": [
+        34.4,
+        0.18,
+        25.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-184",
+      "floor": 0,
+      "position": [
+        34.4,
+        0.18,
+        29.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-185",
+      "floor": 0,
+      "position": [
+        35.2,
+        0.18,
+        30.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-186",
+      "floor": 0,
+      "position": [
+        36.0,
+        0.18,
+        30.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-187",
+      "floor": 0,
+      "position": [
+        36.800000000000004,
+        0.18,
+        30.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-188",
+      "floor": 0,
+      "position": [
+        37.6,
+        0.18,
+        30.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-189",
+      "floor": 0,
+      "position": [
+        38.400000000000006,
+        0.18,
+        29.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-190",
+      "floor": 0,
+      "position": [
+        38.400000000000006,
+        0.18,
+        31.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-191",
+      "floor": 0,
+      "position": [
+        39.2,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-192",
+      "floor": 0,
+      "position": [
+        39.2,
+        0.18,
+        -1.2000000000000002
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-193",
+      "floor": 0,
+      "position": [
+        39.2,
+        0.18,
+        29.200000000000003
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-194",
+      "floor": 0,
+      "position": [
+        40.0,
+        0.18,
+        -0.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-195",
+      "floor": 0,
+      "position": [
+        40.0,
+        0.18,
+        31.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-196",
+      "floor": 0,
+      "position": [
+        40.800000000000004,
+        0.18,
+        -6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-197",
+      "floor": 0,
+      "position": [
+        40.800000000000004,
+        0.18,
+        -0.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-198",
+      "floor": 0,
+      "position": [
+        40.800000000000004,
+        0.18,
+        2.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-199",
+      "floor": 0,
+      "position": [
+        40.800000000000004,
+        0.18,
+        30.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-200",
+      "floor": 0,
+      "position": [
+        40.800000000000004,
+        0.18,
+        32.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-201",
+      "floor": 0,
+      "position": [
+        41.6,
+        0.18,
+        -10.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-202",
+      "floor": 0,
+      "position": [
+        41.6,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-203",
+      "floor": 0,
+      "position": [
+        41.6,
+        0.18,
+        -6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-204",
+      "floor": 0,
+      "position": [
+        41.6,
+        0.18,
+        30.8
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-205",
+      "floor": 0,
+      "position": [
+        41.6,
+        0.18,
+        32.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-206",
+      "floor": 0,
+      "position": [
+        42.400000000000006,
+        0.18,
+        -9.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-207",
+      "floor": 0,
+      "position": [
+        42.400000000000006,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-208",
+      "floor": 0,
+      "position": [
+        42.400000000000006,
+        0.18,
+        -5.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-209",
+      "floor": 0,
+      "position": [
+        42.400000000000006,
+        0.18,
+        33.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-210",
+      "floor": 0,
+      "position": [
+        43.2,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-211",
+      "floor": 0,
+      "position": [
+        43.2,
+        0.18,
+        33.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-212",
+      "floor": 0,
+      "position": [
+        44.0,
+        0.18,
+        -6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-213",
+      "floor": 0,
+      "position": [
+        44.0,
+        0.18,
+        33.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-214",
+      "floor": 0,
+      "position": [
+        44.0,
+        0.18,
+        34.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-215",
+      "floor": 0,
+      "position": [
+        44.800000000000004,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-216",
+      "floor": 0,
+      "position": [
+        44.800000000000004,
+        0.18,
+        33.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-217",
+      "floor": 0,
+      "position": [
+        44.800000000000004,
+        0.18,
+        34.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-218",
+      "floor": 0,
+      "position": [
+        45.6,
+        0.18,
+        -9.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-219",
+      "floor": 0,
+      "position": [
+        45.6,
+        0.18,
+        34.800000000000004
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-220",
+      "floor": 0,
+      "position": [
+        46.400000000000006,
+        0.18,
+        34.800000000000004
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-221",
+      "floor": 0,
+      "position": [
+        47.2,
+        0.18,
+        35.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-222",
+      "floor": 0,
+      "position": [
+        48.0,
+        0.18,
+        35.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-223",
+      "floor": 0,
+      "position": [
+        49.6,
+        0.18,
+        -6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-224",
+      "floor": 0,
+      "position": [
+        50.400000000000006,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-225",
+      "floor": 0,
+      "position": [
+        50.400000000000006,
+        0.18,
+        38.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-226",
+      "floor": 0,
+      "position": [
+        51.2,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-227",
+      "floor": 0,
+      "position": [
+        51.2,
+        0.18,
+        38.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-228",
+      "floor": 0,
+      "position": [
+        52.0,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-229",
+      "floor": 0,
+      "position": [
+        52.0,
+        0.18,
+        -6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-230",
+      "floor": 0,
+      "position": [
+        52.800000000000004,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-231",
+      "floor": 0,
+      "position": [
+        53.6,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-232",
+      "floor": 0,
+      "position": [
+        53.6,
+        0.18,
+        -7.6000000000000005
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-233",
+      "floor": 0,
+      "position": [
+        53.6,
+        0.18,
+        40.400000000000006
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-234",
+      "floor": 0,
+      "position": [
+        54.400000000000006,
+        0.18,
+        -9.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-235",
+      "floor": 0,
+      "position": [
+        54.400000000000006,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-236",
+      "floor": 0,
+      "position": [
+        54.400000000000006,
+        0.18,
+        40.400000000000006
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-237",
+      "floor": 0,
+      "position": [
+        56.0,
+        0.18,
+        -8.4
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-238",
+      "floor": 0,
+      "position": [
+        56.800000000000004,
+        0.18,
+        -9.200000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-239",
+      "floor": 0,
+      "position": [
+        56.800000000000004,
+        0.18,
+        42.800000000000004
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-240",
+      "floor": 0,
+      "position": [
+        59.2,
+        0.18,
+        42.800000000000004
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-241",
+      "floor": 0,
+      "position": [
+        62.400000000000006,
+        0.18,
+        38.800000000000004
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-242",
+      "floor": 0,
+      "position": [
+        62.400000000000006,
+        0.18,
+        39.6
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-243",
+      "floor": 0,
+      "position": [
+        63.2,
+        0.18,
+        -6.800000000000001
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-244",
+      "floor": 0,
+      "position": [
+        63.2,
+        0.18,
+        37.2
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "gallery-245",
+      "floor": 0,
+      "position": [
+        63.2,
+        0.18,
+        38.0
+      ],
+      "label": "Ground-floor gallery"
+    },
+    {
+      "id": "store-4974",
+      "floor": 0,
+      "position": [
+        -37.376,
+        0.18,
+        7.23599999999999
+      ],
+      "label": "Owndays storefront"
+    },
+    {
+      "id": "store-4975",
+      "floor": 0,
+      "position": [
+        -31.200000000000003,
+        0.18,
+        0.2
+      ],
+      "label": "Skoop storefront"
+    },
+    {
+      "id": "store-4980",
+      "floor": 0,
+      "position": [
+        -12.0,
+        0.18,
+        20.0
+      ],
+      "label": "West Elm storefront"
+    },
+    {
+      "id": "store-4984",
+      "floor": 0,
+      "position": [
+        40.3516788321168,
+        0.18,
+        1.9878832116788319
+      ],
+      "label": "Levi's storefront"
+    },
+    {
+      "id": "store-4990",
+      "floor": 0,
+      "position": [
+        48.36675654242666,
+        0.18,
+        35.100586835844574
+      ],
+      "label": "Hai Chix & Steaks storefront"
+    },
+    {
+      "id": "store-5025",
+      "floor": 0,
+      "position": [
+        -46.891999999999996,
+        0.18,
+        -9.5
+      ],
+      "label": "Dough&Grocer storefront"
+    },
+    {
+      "id": "store-5028",
+      "floor": 0,
+      "position": [
+        -26.6,
+        0.18,
+        -10.8
+      ],
+      "label": "Pottery Barn storefront"
+    },
+    {
+      "id": "store-5656",
+      "floor": 0,
+      "position": [
+        63.515416015625014,
+        0.18,
+        -7.358961425781252
+      ],
+      "label": "Power Mac Center storefront"
+    },
+    {
+      "id": "store-5659",
+      "floor": 0,
+      "position": [
+        45.58679347771965,
+        0.18,
+        -9.622610325095525
+      ],
+      "label": "Pacsports storefront"
+    },
+    {
+      "id": "store-5662",
+      "floor": 0,
+      "position": [
+        13.600000000000001,
+        0.18,
+        -7.0
+      ],
+      "label": "12 Monkeys Music Hall & Pub storefront"
+    },
+    {
+      "id": "store-7824",
+      "floor": 0,
+      "position": [
+        34.03159428834933,
+        0.18,
+        -2.833199404770653
+      ],
+      "label": "SONY storefront"
+    },
+    {
+      "id": "store-7831",
+      "floor": 0,
+      "position": [
+        13.600000000000001,
+        0.18,
+        12.114282226562501
+      ],
+      "label": "Florabel storefront"
+    },
+    {
+      "id": "store-7834",
+      "floor": 0,
+      "position": [
+        -29.736006103515628,
+        0.18,
+        -7.2
+      ],
+      "label": "Styles Asia Home storefront"
+    },
+    {
+      "id": "store-7846",
+      "floor": 0,
+      "position": [
+        -25.574900608178144,
+        0.18,
+        -14.853379321943203
+      ],
+      "label": "Restrooms · west storefront"
+    },
+    {
+      "id": "store-7849",
+      "floor": 0,
+      "position": [
+        31.838662597656253,
+        0.18,
+        -14.769337402343751
+      ],
+      "label": "Restrooms · east storefront"
+    },
+    {
+      "id": "store-9109",
+      "floor": 0,
+      "position": [
+        -40.54138631833785,
+        0.18,
+        8.389172313285417
+      ],
+      "label": "HLA storefront"
+    },
+    {
+      "id": "store-9110",
+      "floor": 0,
+      "position": [
+        -61.34868527095776,
+        0.18,
+        4.363421130775942
+      ],
+      "label": "@Tokyo storefront"
+    },
+    {
+      "id": "store-9429",
+      "floor": 0,
+      "position": [
+        -61.722265625000006,
+        0.18,
+        -9.200000000000001
+      ],
+      "label": "Prologue storefront"
+    },
+    {
+      "id": "store-9448",
+      "floor": 0,
+      "position": [
+        41.20978124999999,
+        0.18,
+        -8.228625
+      ],
+      "label": "Evernew storefront"
+    },
+    {
+      "id": "store-9450",
+      "floor": 0,
+      "position": [
+        41.6,
+        0.18,
+        -10.58125
+      ],
+      "label": "iStudio Plus storefront"
+    },
+    {
+      "id": "store-9451",
+      "floor": 0,
+      "position": [
+        54.382021772097055,
+        0.18,
+        -9.631477469670711
+      ],
+      "label": "Samsung storefront"
+    },
+    {
+      "id": "store-9454",
+      "floor": 0,
+      "position": [
+        56.800000000000004,
+        0.18,
+        -9.756250000000001
+      ],
+      "label": "Sunglass Haven storefront"
+    },
+    {
+      "id": "store-9488",
+      "floor": 0,
+      "position": [
+        10.831041554236368,
+        0.18,
+        3.568569886670275
+      ],
+      "label": "Cibo storefront"
+    },
+    {
+      "id": "store-9678",
+      "floor": 0,
+      "position": [
+        25.569750519750528,
+        0.18,
+        8.262266112266117
+      ],
+      "label": "Chagee storefront"
+    },
+    {
+      "id": "store-9710",
+      "floor": 0,
+      "position": [
+        29.156710268865186,
+        0.18,
+        -10.060450226474257
+      ],
+      "label": "Yves Rocher storefront"
+    },
+    {
+      "id": "store-9930",
+      "floor": 0,
+      "position": [
+        62.874967526442745,
+        0.18,
+        36.9478196325849
+      ],
+      "label": "Wolhwa Galbi storefront"
+    },
+    {
+      "id": "store-9932",
+      "floor": 0,
+      "position": [
+        -29.960000000000004,
+        0.18,
+        21.779999999999998
+      ],
+      "label": "Heybo storefront"
+    }
+  ],
+  "edges": [
+    {
+      "id": "entrance--gallery-90",
+      "from": "entrance",
+      "to": "gallery-90",
+      "distance": 4.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "entrance--gallery-95",
+      "from": "entrance",
+      "to": "gallery-95",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "entrance--gallery-93",
+      "from": "entrance",
+      "to": "gallery-93",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "entrance--gallery-98",
+      "from": "entrance",
+      "to": "gallery-98",
+      "distance": 4.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-90--gallery-88",
+      "from": "gallery-90",
+      "to": "gallery-88",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-90--gallery-77",
+      "from": "gallery-90",
+      "to": "gallery-77",
+      "distance": 8.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-77--gallery-73",
+      "from": "gallery-77",
+      "to": "gallery-73",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-77--gallery-75",
+      "from": "gallery-77",
+      "to": "gallery-75",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-73--gallery-71",
+      "from": "gallery-73",
+      "to": "gallery-71",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-73--gallery-70",
+      "from": "gallery-73",
+      "to": "gallery-70",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-71--gallery-69",
+      "from": "gallery-71",
+      "to": "gallery-69",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-69--gallery-57",
+      "from": "gallery-69",
+      "to": "gallery-57",
+      "distance": 8.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-69--gallery-70",
+      "from": "gallery-69",
+      "to": "gallery-70",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-57--gallery-53",
+      "from": "gallery-57",
+      "to": "gallery-53",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-53--gallery-28",
+      "from": "gallery-53",
+      "to": "gallery-28",
+      "distance": 5.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-28--gallery-25",
+      "from": "gallery-28",
+      "to": "gallery-25",
+      "distance": 5.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-28--gallery-29",
+      "from": "gallery-28",
+      "to": "gallery-29",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-25--gallery-22",
+      "from": "gallery-25",
+      "to": "gallery-22",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-22--gallery-20",
+      "from": "gallery-22",
+      "to": "gallery-20",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-20--gallery-27",
+      "from": "gallery-20",
+      "to": "gallery-27",
+      "distance": 4.53,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-20--gallery-17",
+      "from": "gallery-20",
+      "to": "gallery-17",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-17--gallery-11",
+      "from": "gallery-17",
+      "to": "gallery-11",
+      "distance": 3.39,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-17--gallery-18",
+      "from": "gallery-17",
+      "to": "gallery-18",
+      "distance": 7.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-18--gallery-15",
+      "from": "gallery-18",
+      "to": "gallery-15",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-18--gallery-23",
+      "from": "gallery-18",
+      "to": "gallery-23",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-70--gallery-59",
+      "from": "gallery-70",
+      "to": "gallery-59",
+      "distance": 8.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-59--gallery-48",
+      "from": "gallery-59",
+      "to": "gallery-48",
+      "distance": 3.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-59--gallery-56",
+      "from": "gallery-59",
+      "to": "gallery-56",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-48--gallery-27",
+      "from": "gallery-48",
+      "to": "gallery-27",
+      "distance": 8.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-48--gallery-43",
+      "from": "gallery-48",
+      "to": "gallery-43",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-43--gallery-37",
+      "from": "gallery-43",
+      "to": "gallery-37",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-37--gallery-36",
+      "from": "gallery-37",
+      "to": "gallery-36",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-36--gallery-29",
+      "from": "gallery-36",
+      "to": "gallery-29",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-93--gallery-92",
+      "from": "gallery-93",
+      "to": "gallery-92",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-92--gallery-91",
+      "from": "gallery-92",
+      "to": "gallery-91",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-91--gallery-89",
+      "from": "gallery-91",
+      "to": "gallery-89",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-89--gallery-86",
+      "from": "gallery-89",
+      "to": "gallery-86",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-86--gallery-81",
+      "from": "gallery-86",
+      "to": "gallery-81",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-86--gallery-87",
+      "from": "gallery-86",
+      "to": "gallery-87",
+      "distance": 5.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-87--gallery-84",
+      "from": "gallery-87",
+      "to": "gallery-84",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-84--gallery-85",
+      "from": "gallery-84",
+      "to": "gallery-85",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-85--gallery-82",
+      "from": "gallery-85",
+      "to": "gallery-82",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-82--gallery-81",
+      "from": "gallery-82",
+      "to": "gallery-81",
+      "distance": 6.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-82--gallery-83",
+      "from": "gallery-82",
+      "to": "gallery-83",
+      "distance": 9.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-83--gallery-79",
+      "from": "gallery-83",
+      "to": "gallery-79",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-79--gallery-80",
+      "from": "gallery-79",
+      "to": "gallery-80",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-80--gallery-78",
+      "from": "gallery-80",
+      "to": "gallery-78",
+      "distance": 4.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-78--gallery-76",
+      "from": "gallery-78",
+      "to": "gallery-76",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-98--gallery-100",
+      "from": "gallery-98",
+      "to": "gallery-100",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-98--gallery-117",
+      "from": "gallery-98",
+      "to": "gallery-117",
+      "distance": 9.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-117--gallery-120",
+      "from": "gallery-117",
+      "to": "gallery-120",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-117--gallery-148",
+      "from": "gallery-117",
+      "to": "gallery-148",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-148--gallery-152",
+      "from": "gallery-148",
+      "to": "gallery-152",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-148--gallery-151",
+      "from": "gallery-148",
+      "to": "gallery-151",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-152--gallery-158",
+      "from": "gallery-152",
+      "to": "gallery-158",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-152--gallery-167",
+      "from": "gallery-152",
+      "to": "gallery-167",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-158--gallery-163",
+      "from": "gallery-158",
+      "to": "gallery-163",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-163--gallery-168",
+      "from": "gallery-163",
+      "to": "gallery-168",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-168--gallery-177",
+      "from": "gallery-168",
+      "to": "gallery-177",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-177--gallery-181",
+      "from": "gallery-177",
+      "to": "gallery-181",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-181--gallery-192",
+      "from": "gallery-181",
+      "to": "gallery-192",
+      "distance": 5.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-192--gallery-194",
+      "from": "gallery-192",
+      "to": "gallery-194",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-194--gallery-197",
+      "from": "gallery-194",
+      "to": "gallery-197",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-197--gallery-198",
+      "from": "gallery-197",
+      "to": "gallery-198",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-95--gallery-96",
+      "from": "gallery-95",
+      "to": "gallery-96",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-96--gallery-97",
+      "from": "gallery-96",
+      "to": "gallery-97",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-97--gallery-99",
+      "from": "gallery-97",
+      "to": "gallery-99",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-99--gallery-101",
+      "from": "gallery-99",
+      "to": "gallery-101",
+      "distance": 3.39,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-101--gallery-103",
+      "from": "gallery-101",
+      "to": "gallery-103",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-101--gallery-102",
+      "from": "gallery-101",
+      "to": "gallery-102",
+      "distance": 16.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-102--gallery-110",
+      "from": "gallery-102",
+      "to": "gallery-110",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-110--gallery-111",
+      "from": "gallery-110",
+      "to": "gallery-111",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-111--gallery-116",
+      "from": "gallery-111",
+      "to": "gallery-116",
+      "distance": 4.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-116--gallery-118",
+      "from": "gallery-116",
+      "to": "gallery-118",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-116--gallery-119",
+      "from": "gallery-116",
+      "to": "gallery-119",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-119--gallery-121",
+      "from": "gallery-119",
+      "to": "gallery-121",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-121--gallery-123",
+      "from": "gallery-121",
+      "to": "gallery-123",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-121--gallery-126",
+      "from": "gallery-121",
+      "to": "gallery-126",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-121--gallery-118",
+      "from": "gallery-121",
+      "to": "gallery-118",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-123--gallery-125",
+      "from": "gallery-123",
+      "to": "gallery-125",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-125--gallery-127",
+      "from": "gallery-125",
+      "to": "gallery-127",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-127--gallery-129",
+      "from": "gallery-127",
+      "to": "gallery-129",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-129--gallery-130",
+      "from": "gallery-129",
+      "to": "gallery-130",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-130--gallery-134",
+      "from": "gallery-130",
+      "to": "gallery-134",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-134--gallery-136",
+      "from": "gallery-134",
+      "to": "gallery-136",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-136--gallery-137",
+      "from": "gallery-136",
+      "to": "gallery-137",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-137--gallery-140",
+      "from": "gallery-137",
+      "to": "gallery-140",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-140--gallery-143",
+      "from": "gallery-140",
+      "to": "gallery-143",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-143--gallery-144",
+      "from": "gallery-143",
+      "to": "gallery-144",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-144--gallery-147",
+      "from": "gallery-144",
+      "to": "gallery-147",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-147--gallery-150",
+      "from": "gallery-147",
+      "to": "gallery-150",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-150--gallery-153",
+      "from": "gallery-150",
+      "to": "gallery-153",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-153--gallery-159",
+      "from": "gallery-153",
+      "to": "gallery-159",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-159--gallery-170",
+      "from": "gallery-159",
+      "to": "gallery-170",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-170--gallery-174",
+      "from": "gallery-170",
+      "to": "gallery-174",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-174--gallery-178",
+      "from": "gallery-174",
+      "to": "gallery-178",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-178--gallery-182",
+      "from": "gallery-178",
+      "to": "gallery-182",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-182--gallery-184",
+      "from": "gallery-182",
+      "to": "gallery-184",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-184--gallery-185",
+      "from": "gallery-184",
+      "to": "gallery-185",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-185--gallery-186",
+      "from": "gallery-185",
+      "to": "gallery-186",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-186--gallery-187",
+      "from": "gallery-186",
+      "to": "gallery-187",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-187--gallery-188",
+      "from": "gallery-187",
+      "to": "gallery-188",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-188--gallery-190",
+      "from": "gallery-188",
+      "to": "gallery-190",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-190--gallery-195",
+      "from": "gallery-190",
+      "to": "gallery-195",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-195--gallery-200",
+      "from": "gallery-195",
+      "to": "gallery-200",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-200--gallery-205",
+      "from": "gallery-200",
+      "to": "gallery-205",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-205--gallery-209",
+      "from": "gallery-205",
+      "to": "gallery-209",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-209--gallery-211",
+      "from": "gallery-209",
+      "to": "gallery-211",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-211--gallery-214",
+      "from": "gallery-211",
+      "to": "gallery-214",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-214--gallery-217",
+      "from": "gallery-214",
+      "to": "gallery-217",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-217--gallery-219",
+      "from": "gallery-217",
+      "to": "gallery-219",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-219--gallery-220",
+      "from": "gallery-219",
+      "to": "gallery-220",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-220--gallery-216",
+      "from": "gallery-220",
+      "to": "gallery-216",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-220--gallery-221",
+      "from": "gallery-220",
+      "to": "gallery-221",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-221--gallery-222",
+      "from": "gallery-221",
+      "to": "gallery-222",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-222--gallery-225",
+      "from": "gallery-222",
+      "to": "gallery-225",
+      "distance": 3.39,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-27--gallery-19",
+      "from": "gallery-27",
+      "to": "gallery-19",
+      "distance": 3.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-27--gallery-26",
+      "from": "gallery-27",
+      "to": "gallery-26",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-26--gallery-24",
+      "from": "gallery-26",
+      "to": "gallery-24",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-24--gallery-21",
+      "from": "gallery-24",
+      "to": "gallery-21",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-21--gallery-16",
+      "from": "gallery-21",
+      "to": "gallery-16",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-16--gallery-14",
+      "from": "gallery-16",
+      "to": "gallery-14",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-14--gallery-13",
+      "from": "gallery-14",
+      "to": "gallery-13",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-13--gallery-10",
+      "from": "gallery-13",
+      "to": "gallery-10",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-13--gallery-19",
+      "from": "gallery-13",
+      "to": "gallery-19",
+      "distance": 3.39,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-10--gallery-9",
+      "from": "gallery-10",
+      "to": "gallery-9",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-9--gallery-8",
+      "from": "gallery-9",
+      "to": "gallery-8",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-9--gallery-5",
+      "from": "gallery-9",
+      "to": "gallery-5",
+      "distance": 13.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-8--gallery-7",
+      "from": "gallery-8",
+      "to": "gallery-7",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-7--gallery-6",
+      "from": "gallery-7",
+      "to": "gallery-6",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-75--gallery-88",
+      "from": "gallery-75",
+      "to": "gallery-88",
+      "distance": 8.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-75--gallery-56",
+      "from": "gallery-75",
+      "to": "gallery-56",
+      "distance": 11.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-56--gallery-51",
+      "from": "gallery-56",
+      "to": "gallery-51",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-56--gallery-55",
+      "from": "gallery-56",
+      "to": "gallery-55",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-51--gallery-46",
+      "from": "gallery-51",
+      "to": "gallery-46",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-46--gallery-41",
+      "from": "gallery-46",
+      "to": "gallery-41",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-41--gallery-40",
+      "from": "gallery-41",
+      "to": "gallery-40",
+      "distance": 4.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-40--gallery-39",
+      "from": "gallery-40",
+      "to": "gallery-39",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-167--gallery-173",
+      "from": "gallery-167",
+      "to": "gallery-173",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-167--gallery-172",
+      "from": "gallery-167",
+      "to": "gallery-172",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-173--gallery-176",
+      "from": "gallery-173",
+      "to": "gallery-176",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-173--gallery-175",
+      "from": "gallery-173",
+      "to": "gallery-175",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-175--gallery-172",
+      "from": "gallery-175",
+      "to": "gallery-172",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-175--gallery-179",
+      "from": "gallery-175",
+      "to": "gallery-179",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-179--gallery-162",
+      "from": "gallery-179",
+      "to": "gallery-162",
+      "distance": 3.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-179--gallery-191",
+      "from": "gallery-179",
+      "to": "gallery-191",
+      "distance": 5.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-191--gallery-196",
+      "from": "gallery-191",
+      "to": "gallery-196",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-191--gallery-208",
+      "from": "gallery-191",
+      "to": "gallery-208",
+      "distance": 3.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-208--gallery-212",
+      "from": "gallery-208",
+      "to": "gallery-212",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-212--gallery-223",
+      "from": "gallery-212",
+      "to": "gallery-223",
+      "distance": 5.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-223--gallery-229",
+      "from": "gallery-223",
+      "to": "gallery-229",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-223--gallery-224",
+      "from": "gallery-223",
+      "to": "gallery-224",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-229--gallery-243",
+      "from": "gallery-229",
+      "to": "gallery-243",
+      "distance": 11.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-229--gallery-230",
+      "from": "gallery-229",
+      "to": "gallery-230",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-196--gallery-203",
+      "from": "gallery-196",
+      "to": "gallery-203",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-203--gallery-207",
+      "from": "gallery-203",
+      "to": "gallery-207",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-207--gallery-206",
+      "from": "gallery-207",
+      "to": "gallery-206",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-207--gallery-210",
+      "from": "gallery-207",
+      "to": "gallery-210",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-207--gallery-202",
+      "from": "gallery-207",
+      "to": "gallery-202",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-210--gallery-215",
+      "from": "gallery-210",
+      "to": "gallery-215",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-215--gallery-218",
+      "from": "gallery-215",
+      "to": "gallery-218",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-100--gallery-114",
+      "from": "gallery-100",
+      "to": "gallery-114",
+      "distance": 5.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-114--gallery-124",
+      "from": "gallery-114",
+      "to": "gallery-124",
+      "distance": 4.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-176--gallery-180",
+      "from": "gallery-176",
+      "to": "gallery-180",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-103--gallery-104",
+      "from": "gallery-103",
+      "to": "gallery-104",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-103--gallery-106",
+      "from": "gallery-103",
+      "to": "gallery-106",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-104--gallery-107",
+      "from": "gallery-104",
+      "to": "gallery-107",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-104--gallery-105",
+      "from": "gallery-104",
+      "to": "gallery-105",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-105--gallery-108",
+      "from": "gallery-105",
+      "to": "gallery-108",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-108--gallery-109",
+      "from": "gallery-108",
+      "to": "gallery-109",
+      "distance": 5.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-108--gallery-107",
+      "from": "gallery-108",
+      "to": "gallery-107",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-109--gallery-112",
+      "from": "gallery-109",
+      "to": "gallery-112",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-112--gallery-113",
+      "from": "gallery-112",
+      "to": "gallery-113",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-113--gallery-115",
+      "from": "gallery-113",
+      "to": "gallery-115",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-113--gallery-132",
+      "from": "gallery-113",
+      "to": "gallery-132",
+      "distance": 9.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-55--gallery-52",
+      "from": "gallery-55",
+      "to": "gallery-52",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-52--gallery-47",
+      "from": "gallery-52",
+      "to": "gallery-47",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-47--gallery-42",
+      "from": "gallery-47",
+      "to": "gallery-42",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-42--gallery-35",
+      "from": "gallery-42",
+      "to": "gallery-35",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-35--gallery-32",
+      "from": "gallery-35",
+      "to": "gallery-32",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-39--gallery-45",
+      "from": "gallery-39",
+      "to": "gallery-45",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-45--gallery-50",
+      "from": "gallery-45",
+      "to": "gallery-50",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-124--gallery-145",
+      "from": "gallery-124",
+      "to": "gallery-145",
+      "distance": 8.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-124--gallery-122",
+      "from": "gallery-124",
+      "to": "gallery-122",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-145--gallery-156",
+      "from": "gallery-145",
+      "to": "gallery-156",
+      "distance": 3.39,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-156--gallery-155",
+      "from": "gallery-156",
+      "to": "gallery-155",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-155--gallery-161",
+      "from": "gallery-155",
+      "to": "gallery-161",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-155--gallery-154",
+      "from": "gallery-155",
+      "to": "gallery-154",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-161--gallery-160",
+      "from": "gallery-161",
+      "to": "gallery-160",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-160--gallery-166",
+      "from": "gallery-160",
+      "to": "gallery-166",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-166--gallery-165",
+      "from": "gallery-166",
+      "to": "gallery-165",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-165--gallery-171",
+      "from": "gallery-165",
+      "to": "gallery-171",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-11--gallery-12",
+      "from": "gallery-11",
+      "to": "gallery-12",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-12--gallery-3",
+      "from": "gallery-12",
+      "to": "gallery-3",
+      "distance": 18.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-3--gallery-1",
+      "from": "gallery-3",
+      "to": "gallery-1",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-5--gallery-4",
+      "from": "gallery-5",
+      "to": "gallery-4",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-4--gallery-2",
+      "from": "gallery-4",
+      "to": "gallery-2",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-2--gallery-0",
+      "from": "gallery-2",
+      "to": "gallery-0",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-151--gallery-157",
+      "from": "gallery-151",
+      "to": "gallery-157",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-157--gallery-162",
+      "from": "gallery-157",
+      "to": "gallery-162",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-206--gallery-201",
+      "from": "gallery-206",
+      "to": "gallery-201",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-224--gallery-226",
+      "from": "gallery-224",
+      "to": "gallery-226",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-226--gallery-228",
+      "from": "gallery-226",
+      "to": "gallery-228",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-228--gallery-231",
+      "from": "gallery-228",
+      "to": "gallery-231",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-231--gallery-234",
+      "from": "gallery-231",
+      "to": "gallery-234",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-230--gallery-232",
+      "from": "gallery-230",
+      "to": "gallery-232",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-232--gallery-235",
+      "from": "gallery-232",
+      "to": "gallery-235",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-235--gallery-237",
+      "from": "gallery-235",
+      "to": "gallery-237",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-237--gallery-238",
+      "from": "gallery-237",
+      "to": "gallery-238",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-107--gallery-106",
+      "from": "gallery-107",
+      "to": "gallery-106",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-132--gallery-135",
+      "from": "gallery-132",
+      "to": "gallery-135",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-135--gallery-138",
+      "from": "gallery-135",
+      "to": "gallery-138",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-138--gallery-141",
+      "from": "gallery-138",
+      "to": "gallery-141",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-120--gallery-122",
+      "from": "gallery-120",
+      "to": "gallery-122",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-126--gallery-128",
+      "from": "gallery-126",
+      "to": "gallery-128",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-128--gallery-131",
+      "from": "gallery-128",
+      "to": "gallery-131",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-131--gallery-133",
+      "from": "gallery-131",
+      "to": "gallery-133",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-133--gallery-139",
+      "from": "gallery-133",
+      "to": "gallery-139",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-139--gallery-142",
+      "from": "gallery-139",
+      "to": "gallery-142",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-142--gallery-146",
+      "from": "gallery-142",
+      "to": "gallery-146",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-146--gallery-149",
+      "from": "gallery-146",
+      "to": "gallery-149",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-149--gallery-164",
+      "from": "gallery-149",
+      "to": "gallery-164",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-164--gallery-169",
+      "from": "gallery-164",
+      "to": "gallery-169",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-169--gallery-183",
+      "from": "gallery-169",
+      "to": "gallery-183",
+      "distance": 3.2,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-183--gallery-189",
+      "from": "gallery-183",
+      "to": "gallery-189",
+      "distance": 5.66,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-189--gallery-193",
+      "from": "gallery-189",
+      "to": "gallery-193",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-193--gallery-199",
+      "from": "gallery-193",
+      "to": "gallery-199",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-199--gallery-204",
+      "from": "gallery-199",
+      "to": "gallery-204",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-204--gallery-213",
+      "from": "gallery-204",
+      "to": "gallery-213",
+      "distance": 3.39,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-213--gallery-216",
+      "from": "gallery-213",
+      "to": "gallery-216",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-225--gallery-227",
+      "from": "gallery-225",
+      "to": "gallery-227",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-227--gallery-233",
+      "from": "gallery-227",
+      "to": "gallery-233",
+      "distance": 3.39,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-233--gallery-236",
+      "from": "gallery-233",
+      "to": "gallery-236",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-236--gallery-239",
+      "from": "gallery-236",
+      "to": "gallery-239",
+      "distance": 3.39,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-239--gallery-240",
+      "from": "gallery-239",
+      "to": "gallery-240",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-240--gallery-242",
+      "from": "gallery-240",
+      "to": "gallery-242",
+      "distance": 4.53,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-242--gallery-241",
+      "from": "gallery-242",
+      "to": "gallery-241",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-241--gallery-245",
+      "from": "gallery-241",
+      "to": "gallery-245",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-245--gallery-244",
+      "from": "gallery-245",
+      "to": "gallery-244",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-76--gallery-74",
+      "from": "gallery-76",
+      "to": "gallery-74",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-74--gallery-72",
+      "from": "gallery-74",
+      "to": "gallery-72",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-72--gallery-68",
+      "from": "gallery-72",
+      "to": "gallery-68",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-68--gallery-67",
+      "from": "gallery-68",
+      "to": "gallery-67",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-67--gallery-66",
+      "from": "gallery-67",
+      "to": "gallery-66",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-66--gallery-65",
+      "from": "gallery-66",
+      "to": "gallery-65",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-65--gallery-64",
+      "from": "gallery-65",
+      "to": "gallery-64",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-64--gallery-63",
+      "from": "gallery-64",
+      "to": "gallery-63",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-63--gallery-62",
+      "from": "gallery-63",
+      "to": "gallery-62",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-62--gallery-61",
+      "from": "gallery-62",
+      "to": "gallery-61",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-61--gallery-60",
+      "from": "gallery-61",
+      "to": "gallery-60",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-60--gallery-58",
+      "from": "gallery-60",
+      "to": "gallery-58",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-58--gallery-54",
+      "from": "gallery-58",
+      "to": "gallery-54",
+      "distance": 1.6,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-54--gallery-49",
+      "from": "gallery-54",
+      "to": "gallery-49",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-49--gallery-44",
+      "from": "gallery-49",
+      "to": "gallery-44",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-44--gallery-38",
+      "from": "gallery-44",
+      "to": "gallery-38",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-38--gallery-34",
+      "from": "gallery-38",
+      "to": "gallery-34",
+      "distance": 2.26,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-34--gallery-33",
+      "from": "gallery-34",
+      "to": "gallery-33",
+      "distance": 2.4,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-33--gallery-31",
+      "from": "gallery-33",
+      "to": "gallery-31",
+      "distance": 1.13,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-31--gallery-30",
+      "from": "gallery-31",
+      "to": "gallery-30",
+      "distance": 0.8,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-23--store-4974",
+      "from": "gallery-23",
+      "to": "store-4974",
+      "distance": 0.43,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-28--store-4975",
+      "from": "gallery-28",
+      "to": "store-4975",
+      "distance": 1.4,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-78--store-4980",
+      "from": "gallery-78",
+      "to": "store-4980",
+      "distance": 0.4,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-198--store-4984",
+      "from": "gallery-198",
+      "to": "store-4984",
+      "distance": 0.45,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-222--store-4990",
+      "from": "gallery-222",
+      "to": "store-4990",
+      "distance": 0.62,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-6--store-5025",
+      "from": "gallery-6",
+      "to": "store-5025",
+      "distance": 0.43,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-40--store-5028",
+      "from": "gallery-40",
+      "to": "store-5028",
+      "distance": 0.6,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-243--store-5656",
+      "from": "gallery-243",
+      "to": "store-5656",
+      "distance": 0.64,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-218--store-5659",
+      "from": "gallery-218",
+      "to": "store-5659",
+      "distance": 0.42,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-114--store-5662",
+      "from": "gallery-114",
+      "to": "store-5662",
+      "distance": 1.8,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-180--store-7824",
+      "from": "gallery-180",
+      "to": "store-7824",
+      "distance": 0.43,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-115--store-7831",
+      "from": "gallery-115",
+      "to": "store-7831",
+      "distance": 0.51,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-32--store-7834",
+      "from": "gallery-32",
+      "to": "store-7834",
+      "distance": 0.42,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-50--store-7846",
+      "from": "gallery-50",
+      "to": "store-7846",
+      "distance": 0.85,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-171--store-7849",
+      "from": "gallery-171",
+      "to": "store-7849",
+      "distance": 0.79,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-15--store-9109",
+      "from": "gallery-15",
+      "to": "store-9109",
+      "distance": 0.54,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-1--store-9110",
+      "from": "gallery-1",
+      "to": "store-9110",
+      "distance": 0.55,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-0--store-9429",
+      "from": "gallery-0",
+      "to": "store-9429",
+      "distance": 0.92,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-202--store-9448",
+      "from": "gallery-202",
+      "to": "store-9448",
+      "distance": 0.43,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-201--store-9450",
+      "from": "gallery-201",
+      "to": "store-9450",
+      "distance": 0.58,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-234--store-9451",
+      "from": "gallery-234",
+      "to": "store-9451",
+      "distance": 0.43,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-238--store-9454",
+      "from": "gallery-238",
+      "to": "store-9454",
+      "distance": 0.56,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-107--store-9488",
+      "from": "gallery-107",
+      "to": "store-9488",
+      "distance": 0.43,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-141--store-9678",
+      "from": "gallery-141",
+      "to": "store-9678",
+      "distance": 0.94,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-154--store-9710",
+      "from": "gallery-154",
+      "to": "store-9710",
+      "distance": 0.45,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-244--store-9930",
+      "from": "gallery-244",
+      "to": "store-9930",
+      "distance": 0.41,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "gallery-30--store-9932",
+      "from": "gallery-30",
+      "to": "store-9932",
+      "distance": 0.49,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": false
+    }
+  ],
+  "model": "building.glb",
+  "provenance": {
+    "layoutStatus": "Directory reconstruction",
+    "layoutNote": "Main Mall ground floor only. Store polygons and facility markers follow the official Ortigas Malls directory snapshot of 9 October 2026. Cutaway walls follow its click areas; doorway gaps, heights, floor outline, and metric scale are estimates. Counters, seating, and escalator details are illustrative artwork. Two conflicting store-floor labels are excluded from destinations. No measured accuracy percentage or approved evacuation route is claimed. Interior props are reused from Kenney CC0 kits and arranged by store type; actual tenant furnishings and merchandise are not verified.",
+    "sources": [
+      "https://www.ortigasmalls.com/mall-directory?selectedMall=7"
+    ]
+  },
+  "instructions": {
+    "assistance": "This reference floor has no verified emergency or step-free evacuation route. Follow actual facility signs and staff instructions.",
+    "emergency": "DEMONSTRATION ONLY. Source exit markers are reference labels. Assembly points, emergency connections, and current hazards have not been verified; evacuation routing is unavailable for this floor."
+  },
+  "interiorAssets": {
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sources": [
+      "https://kenney.nl/assets/furniture-kit",
+      "https://kenney.nl/assets/food-kit"
+    ],
+    "models": [
+      {
+        "pack": "food-kit",
+        "name": "apple"
+      },
+      {
+        "pack": "food-kit",
+        "name": "bread"
+      },
+      {
+        "pack": "food-kit",
+        "name": "carton"
+      },
+      {
+        "pack": "food-kit",
+        "name": "cup-coffee"
+      },
+      {
+        "pack": "food-kit",
+        "name": "cup-tea"
+      },
+      {
+        "pack": "food-kit",
+        "name": "frappe"
+      },
+      {
+        "pack": "food-kit",
+        "name": "plate-dinner"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "bathroomMirror"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "bookcaseOpen"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "bookcaseOpenLow"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "cabinetBedDrawer"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "chair"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "chairCushion"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "chairRounded"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "coatRackStanding"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "computerKeyboard"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "computerMouse"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "computerScreen"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "desk"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "kitchenCoffeeMachine"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "lampRoundFloor"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "laptop"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "loungeChair"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "loungeSofa"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "plantSmall1"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "pottedPlant"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "sideTable"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "speaker"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "table"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "tableCoffee"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "tableRound"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "televisionModern"
+      }
+    ],
+    "fitoutsVerified": false
+  }
+}

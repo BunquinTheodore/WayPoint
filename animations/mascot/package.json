@@ -1,0 +1,25 @@
+{
+  "name": "waypoint-mascot-animation",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.tsx CatIdle ../../output/mascot/cat-idle.mp4 --codec=h264 --concurrency=2",
+    "render:transparent": "remotion render src/index.tsx CatIdleTransparent ../../output/mascot/cat-idle-transparent.webm --codec=vp9 --pixel-format=yuva420p --image-format=png --concurrency=2",
+    "render:play-dead": "remotion render src/index.tsx CatPlayDead ../../output/mascot/cat-play-dead.mp4 --codec=h264 --concurrency=2 --log=warn",
+    "render:play-dead:transparent": "remotion render src/index.tsx CatPlayDeadTransparent ../../output/mascot/cat-play-dead-transparent.webm --codec=vp9 --pixel-format=yuva420p --image-format=png --concurrency=2 --log=warn"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.534"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "~5.8.3"
+  }
+}

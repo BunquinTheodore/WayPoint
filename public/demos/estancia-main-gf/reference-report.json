@@ -1,0 +1,23 @@
+{
+  "source": "https://www.ortigasmalls.com/mall-directory?selectedMall=7",
+  "retrieved": "2026-10-09",
+  "sourceFloorId": 88,
+  "scaleMetersPerDirectoryUnit": 0.2,
+  "scaleVerified": false,
+  "doorPositionsVerified": false,
+  "accuracyPercent": null,
+  "publishedNamedPolygons": 36,
+  "duplicatesRemoved": [
+    4978,
+    9713
+  ],
+  "conflictingLabelsExcluded": [
+    4992,
+    7837
+  ],
+  "destinationCount": 27,
+  "partitionBasis": "Published click-area polygons, not architectural wall survey",
+  "corridorBasis": "Collision-checked sampling of published unnamed connector lines; routing role inferred",
+  "emergencyRoutingEnabled": false,
+  "interiorDetails": "CC0 Kenney props arranged by store type; low cutaway partitions and escalator symbols. Fit-outs remain illustrative, not surveyed."
+}

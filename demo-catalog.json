@@ -1,0 +1,42 @@
+[
+  {
+    "id": "robinsons-manila",
+    "name": "Robinsons Manila",
+    "aliases": ["Robinsons", "Robinson Manila", "Robinsons Place Manila", "Robinsons mall"],
+    "floors": 4,
+    "kind": "mall",
+    "summary": "A reference-based mall reconstruction with connected wings, atriums, and the curved Midtown frontage.",
+    "layoutStatus": "Reference reconstruction",
+    "layoutNote": "Building envelope uses OpenStreetMap geometry. Interior circulation and shop divisions are manually interpreted from the supplied map; its floor is not confirmed. Upper levels, doorway positions, heights, vertical connections, and tenant coordinates are estimates. Selected tenant levels follow the official directory. Exterior details reference May 2025 photographs. Surrounding residential towers are omitted to keep the model focused and lightweight. No surveyed accuracy percentage or approved evacuation route is claimed. Kenney CC0 furnishings are illustrative.",
+    "sources": [
+      "https://vmd.robinsonsmalls.com/list-of-malls/metro-manila/robinsons-manila",
+      "https://robinsonsmalls.com/mall-info/robinsons-place-manila",
+      "https://www.openstreetmap.org/way/130532101",
+      "https://commons.wikimedia.org/wiki/File:Robinsons_Place_Manila,_May_2025_(1).jpg",
+      "https://commons.wikimedia.org/wiki/File:Robinsons_Place_Manila,_May_2025_(2).jpg",
+      "https://commons.wikimedia.org/wiki/File:Robinsons_Place_Manila_Interior,_May_2025_(1).jpg"
+    ]
+  },
+  {
+    "id": "estancia-main-gf",
+    "name": "Estancia · Main Mall GF",
+    "aliases": ["Estancia", "Estancia Mall", "Estancia Main Mall", "Estancia Capitol Commons"],
+    "floors": 1,
+    "kind": "mall",
+    "summary": "Individual store outlines from the official directory, with modeled partitions.",
+    "layoutStatus": "Directory reconstruction",
+    "layoutNote": "Main Mall ground floor only. Store polygons and facility markers follow the official Ortigas Malls directory snapshot of 9 October 2026. Cutaway walls follow its click areas; doorway gaps, heights, floor outline, and metric scale are estimates. Counters, seating, and escalator details are illustrative artwork. Two conflicting store-floor labels are excluded from destinations. No measured accuracy percentage or approved evacuation route is claimed. Interior props are reused from Kenney CC0 kits and arranged by store type; actual tenant furnishings and merchandise are not verified.",
+    "sources": ["https://www.ortigasmalls.com/mall-directory?selectedMall=7"]
+  },
+  {
+    "id": "waypoint-tower",
+    "name": "Waypoint Tower",
+    "aliases": ["The tower", "Tower", "Waypoint building"],
+    "floors": 20,
+    "kind": "tower",
+    "summary": "A fictional twenty-floor tower with offices and shared spaces.",
+    "layoutStatus": "Fictional building",
+    "layoutNote": "A fictional tower for exploring floor selection, elevator navigation, and stair-only evacuation demonstrations. Interior props are reused from Kenney CC0 kits and arranged by store type; actual tenant furnishings and merchandise are not verified.",
+    "sources": []
+  }
+]

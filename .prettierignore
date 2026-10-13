@@ -1,0 +1,8 @@
+package-lock.json
+mobile/package-lock.json
+public/demo/*.json
+public/demos/*/*.json
+public/ai/model-info.json
+mobile/assets/
+mobile/AGENTS.md
+mobile/CLAUDE.md

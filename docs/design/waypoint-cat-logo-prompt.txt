@@ -1,0 +1,12 @@
+Tool: built-in image_gen; reference: user-supplied cat icon.
+
+Use case: logo-brand.
+Asset type: polished primary logo for the Waypoint indoor-navigation app.
+Input image 1: mascot reference; preserve its recognizable sitting black cat, enormous white oval eye rings with black centers, asymmetrical pointed ears, tiny rounded paws, and long curled tail.
+Primary request: turn this supplied cat icon into a professional, crisp black-and-white brand logo. Refine the silhouette into smooth confident curves and balanced proportions, retaining its playful wide-eyed personality and upright sitting pose. Keep it a flat graphic with exceptionally clean sharp edges, suitable for tracing into vectors and small-scale use.
+Composition: one horizontal logo lockup, refined cat symbol on the left and the exact lowercase word "waypoint" on the right. Large friendly bold geometric sans-serif wordmark, carefully spaced, aligned optically with the mascot. Generous transparent margins around the complete logo. Mascot and wordmark form one coherent balanced composition.
+Color palette: solid black cat and wordmark, solid white eye rings and inner-ear detail, transparent background.
+Text (verbatim): "waypoint".
+Constraints: preserve the core cat silhouette and expressive eye shape from the reference. Only one cat and one wordmark. No navigation pins, extra objects, slogans, borders, mockups, 3D rendering, gradients, shadows, textures, or watermarks. Background must have real alpha transparency.
+
+Saved logo: public/branding/waypoint-cat-logo.png (transparent PNG).

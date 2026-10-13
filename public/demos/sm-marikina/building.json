@@ -1,0 +1,2112 @@
+{
+  "id": "sm-marikina",
+  "name": "SM City Marikina",
+  "version": "1.2.0",
+  "schemaVersion": 1,
+  "reviewDate": "2026-10-09",
+  "floors": [
+    {
+      "id": 0,
+      "name": "Level 1",
+      "height": 0.0
+    },
+    {
+      "id": 1,
+      "name": "Level 2",
+      "height": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Level 3",
+      "height": 9.0
+    }
+  ],
+  "rooms": [
+    {
+      "id": "room-0-0",
+      "name": "West arcade",
+      "category": "shopping",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "west arcade"
+      ],
+      "floor": 0,
+      "position": [
+        -28,
+        0.18,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-0-0"
+    },
+    {
+      "id": "room-0-1",
+      "name": "Entrance gallery",
+      "category": "services",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "entrance gallery"
+      ],
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-0-1"
+    },
+    {
+      "id": "room-0-2",
+      "name": "East arcade",
+      "category": "shopping",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "east arcade"
+      ],
+      "floor": 0,
+      "position": [
+        28,
+        0.18,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-0-2"
+    },
+    {
+      "id": "room-0-3",
+      "name": "West parking lobby",
+      "category": "services",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "west parking lobby"
+      ],
+      "floor": 0,
+      "position": [
+        -28,
+        0.18,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-0-3"
+    },
+    {
+      "id": "room-0-4",
+      "name": "Parking reference zone",
+      "category": "services",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "parking reference zone"
+      ],
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-0-4"
+    },
+    {
+      "id": "room-0-5",
+      "name": "East parking lobby",
+      "category": "services",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "east parking lobby"
+      ],
+      "floor": 0,
+      "position": [
+        28,
+        0.18,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-0-5"
+    },
+    {
+      "id": "room-1-0",
+      "name": "West retail zone",
+      "category": "shopping",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "west retail zone"
+      ],
+      "floor": 1,
+      "position": [
+        -28,
+        4.68,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-1-0"
+    },
+    {
+      "id": "room-1-1",
+      "name": "Main mall gallery",
+      "category": "shopping",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "main mall gallery"
+      ],
+      "floor": 1,
+      "position": [
+        0,
+        4.68,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-1-1"
+    },
+    {
+      "id": "room-1-2",
+      "name": "East retail zone",
+      "category": "shopping",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "east retail zone"
+      ],
+      "floor": 1,
+      "position": [
+        28,
+        4.68,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-1-2"
+    },
+    {
+      "id": "room-1-3",
+      "name": "Fashion reference zone",
+      "category": "shopping",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "fashion reference zone"
+      ],
+      "floor": 1,
+      "position": [
+        -28,
+        4.68,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-1-3"
+    },
+    {
+      "id": "room-1-4",
+      "name": "Home reference zone",
+      "category": "shopping",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "home reference zone"
+      ],
+      "floor": 1,
+      "position": [
+        0,
+        4.68,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-1-4"
+    },
+    {
+      "id": "room-1-5",
+      "name": "Visitor information",
+      "category": "services",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "visitor information"
+      ],
+      "floor": 1,
+      "position": [
+        28,
+        4.68,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-1-5"
+    },
+    {
+      "id": "room-2-0",
+      "name": "Food court reference",
+      "category": "food",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "food",
+        "hungry",
+        "eat"
+      ],
+      "floor": 2,
+      "position": [
+        -28,
+        9.18,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-2-0"
+    },
+    {
+      "id": "room-2-1",
+      "name": "Dining reference zone",
+      "category": "food",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "food",
+        "hungry",
+        "eat"
+      ],
+      "floor": 2,
+      "position": [
+        0,
+        9.18,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-2-1"
+    },
+    {
+      "id": "room-2-2",
+      "name": "Cinema reference zone",
+      "category": "social",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "cinema reference zone"
+      ],
+      "floor": 2,
+      "position": [
+        28,
+        9.18,
+        -24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-2-2"
+    },
+    {
+      "id": "room-2-3",
+      "name": "Technology reference zone",
+      "category": "shopping",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "technology reference zone"
+      ],
+      "floor": 2,
+      "position": [
+        -28,
+        9.18,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-2-3"
+    },
+    {
+      "id": "room-2-4",
+      "name": "Leisure reference zone",
+      "category": "social",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "leisure reference zone"
+      ],
+      "floor": 2,
+      "position": [
+        0,
+        9.18,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-2-4"
+    },
+    {
+      "id": "room-2-5",
+      "name": "Restrooms reference",
+      "category": "facilities",
+      "description": "Illustrative destination in the approximate SM City Marikina demo; position is unverified. Interior subdivisions and fixtures are illustrative.",
+      "aliases": [
+        "toilet",
+        "bathroom"
+      ],
+      "floor": 2,
+      "position": [
+        28,
+        9.18,
+        24
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "node": "room-2-5"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "room-0-0",
+      "floor": 0,
+      "position": [
+        -28,
+        0.18,
+        -24
+      ],
+      "label": "West arcade"
+    },
+    {
+      "id": "door-0-0",
+      "floor": 0,
+      "position": [
+        -28,
+        0.18,
+        -17.0
+      ],
+      "label": "West arcade doorway"
+    },
+    {
+      "id": "hall-0-0",
+      "floor": 0,
+      "position": [
+        -28,
+        0.18,
+        -12
+      ],
+      "label": "Gallery outside West arcade"
+    },
+    {
+      "id": "room-0-1",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        -24
+      ],
+      "label": "Entrance gallery"
+    },
+    {
+      "id": "door-0-1",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        -17.0
+      ],
+      "label": "Entrance gallery doorway"
+    },
+    {
+      "id": "hall-0-1",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        -12
+      ],
+      "label": "Gallery outside Entrance gallery"
+    },
+    {
+      "id": "room-0-2",
+      "floor": 0,
+      "position": [
+        28,
+        0.18,
+        -24
+      ],
+      "label": "East arcade"
+    },
+    {
+      "id": "door-0-2",
+      "floor": 0,
+      "position": [
+        28,
+        0.18,
+        -17.0
+      ],
+      "label": "East arcade doorway"
+    },
+    {
+      "id": "hall-0-2",
+      "floor": 0,
+      "position": [
+        28,
+        0.18,
+        -12
+      ],
+      "label": "Gallery outside East arcade"
+    },
+    {
+      "id": "room-0-3",
+      "floor": 0,
+      "position": [
+        -28,
+        0.18,
+        24
+      ],
+      "label": "West parking lobby"
+    },
+    {
+      "id": "door-0-3",
+      "floor": 0,
+      "position": [
+        -28,
+        0.18,
+        17.0
+      ],
+      "label": "West parking lobby doorway"
+    },
+    {
+      "id": "hall-0-3",
+      "floor": 0,
+      "position": [
+        -28,
+        0.18,
+        12
+      ],
+      "label": "Gallery outside West parking lobby"
+    },
+    {
+      "id": "room-0-4",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        24
+      ],
+      "label": "Parking reference zone"
+    },
+    {
+      "id": "door-0-4",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        17.0
+      ],
+      "label": "Parking reference zone doorway"
+    },
+    {
+      "id": "hall-0-4",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        12
+      ],
+      "label": "Gallery outside Parking reference zone"
+    },
+    {
+      "id": "room-0-5",
+      "floor": 0,
+      "position": [
+        28,
+        0.18,
+        24
+      ],
+      "label": "East parking lobby"
+    },
+    {
+      "id": "door-0-5",
+      "floor": 0,
+      "position": [
+        28,
+        0.18,
+        17.0
+      ],
+      "label": "East parking lobby doorway"
+    },
+    {
+      "id": "hall-0-5",
+      "floor": 0,
+      "position": [
+        28,
+        0.18,
+        12
+      ],
+      "label": "Gallery outside East parking lobby"
+    },
+    {
+      "id": "stair-0-west",
+      "floor": 0,
+      "position": [
+        -38,
+        0.18,
+        0
+      ],
+      "label": "West stairs, floor 1",
+      "checkpoint": "floor-0-west",
+      "refuge": true
+    },
+    {
+      "id": "corner-0-west-0",
+      "floor": 0,
+      "position": [
+        -38,
+        0.18,
+        -12
+      ],
+      "label": "West gallery corner"
+    },
+    {
+      "id": "corner-0-west-1",
+      "floor": 0,
+      "position": [
+        -38,
+        0.18,
+        12
+      ],
+      "label": "West gallery corner"
+    },
+    {
+      "id": "stair-0-east",
+      "floor": 0,
+      "position": [
+        38,
+        0.18,
+        0
+      ],
+      "label": "East stairs, floor 1",
+      "checkpoint": "floor-0-east",
+      "refuge": true
+    },
+    {
+      "id": "corner-0-east-0",
+      "floor": 0,
+      "position": [
+        38,
+        0.18,
+        -12
+      ],
+      "label": "East gallery corner"
+    },
+    {
+      "id": "corner-0-east-1",
+      "floor": 0,
+      "position": [
+        38,
+        0.18,
+        12
+      ],
+      "label": "East gallery corner"
+    },
+    {
+      "id": "lift-0",
+      "floor": 0,
+      "position": [
+        2,
+        0.18,
+        13
+      ],
+      "label": "Elevator, floor 1",
+      "checkpoint": "floor-0-lift"
+    },
+    {
+      "id": "room-1-0",
+      "floor": 1,
+      "position": [
+        -28,
+        4.68,
+        -24
+      ],
+      "label": "West retail zone"
+    },
+    {
+      "id": "door-1-0",
+      "floor": 1,
+      "position": [
+        -28,
+        4.68,
+        -17.0
+      ],
+      "label": "West retail zone doorway"
+    },
+    {
+      "id": "hall-1-0",
+      "floor": 1,
+      "position": [
+        -28,
+        4.68,
+        -12
+      ],
+      "label": "Gallery outside West retail zone"
+    },
+    {
+      "id": "room-1-1",
+      "floor": 1,
+      "position": [
+        0,
+        4.68,
+        -24
+      ],
+      "label": "Main mall gallery"
+    },
+    {
+      "id": "door-1-1",
+      "floor": 1,
+      "position": [
+        0,
+        4.68,
+        -17.0
+      ],
+      "label": "Main mall gallery doorway"
+    },
+    {
+      "id": "hall-1-1",
+      "floor": 1,
+      "position": [
+        0,
+        4.68,
+        -12
+      ],
+      "label": "Gallery outside Main mall gallery"
+    },
+    {
+      "id": "room-1-2",
+      "floor": 1,
+      "position": [
+        28,
+        4.68,
+        -24
+      ],
+      "label": "East retail zone"
+    },
+    {
+      "id": "door-1-2",
+      "floor": 1,
+      "position": [
+        28,
+        4.68,
+        -17.0
+      ],
+      "label": "East retail zone doorway"
+    },
+    {
+      "id": "hall-1-2",
+      "floor": 1,
+      "position": [
+        28,
+        4.68,
+        -12
+      ],
+      "label": "Gallery outside East retail zone"
+    },
+    {
+      "id": "room-1-3",
+      "floor": 1,
+      "position": [
+        -28,
+        4.68,
+        24
+      ],
+      "label": "Fashion reference zone"
+    },
+    {
+      "id": "door-1-3",
+      "floor": 1,
+      "position": [
+        -28,
+        4.68,
+        17.0
+      ],
+      "label": "Fashion reference zone doorway"
+    },
+    {
+      "id": "hall-1-3",
+      "floor": 1,
+      "position": [
+        -28,
+        4.68,
+        12
+      ],
+      "label": "Gallery outside Fashion reference zone"
+    },
+    {
+      "id": "room-1-4",
+      "floor": 1,
+      "position": [
+        0,
+        4.68,
+        24
+      ],
+      "label": "Home reference zone"
+    },
+    {
+      "id": "door-1-4",
+      "floor": 1,
+      "position": [
+        0,
+        4.68,
+        17.0
+      ],
+      "label": "Home reference zone doorway"
+    },
+    {
+      "id": "hall-1-4",
+      "floor": 1,
+      "position": [
+        0,
+        4.68,
+        12
+      ],
+      "label": "Gallery outside Home reference zone"
+    },
+    {
+      "id": "room-1-5",
+      "floor": 1,
+      "position": [
+        28,
+        4.68,
+        24
+      ],
+      "label": "Visitor information"
+    },
+    {
+      "id": "door-1-5",
+      "floor": 1,
+      "position": [
+        28,
+        4.68,
+        17.0
+      ],
+      "label": "Visitor information doorway"
+    },
+    {
+      "id": "hall-1-5",
+      "floor": 1,
+      "position": [
+        28,
+        4.68,
+        12
+      ],
+      "label": "Gallery outside Visitor information"
+    },
+    {
+      "id": "stair-1-west",
+      "floor": 1,
+      "position": [
+        -38,
+        4.68,
+        0
+      ],
+      "label": "West stairs, floor 2",
+      "checkpoint": "floor-1-west",
+      "refuge": true
+    },
+    {
+      "id": "corner-1-west-0",
+      "floor": 1,
+      "position": [
+        -38,
+        4.68,
+        -12
+      ],
+      "label": "West gallery corner"
+    },
+    {
+      "id": "corner-1-west-1",
+      "floor": 1,
+      "position": [
+        -38,
+        4.68,
+        12
+      ],
+      "label": "West gallery corner"
+    },
+    {
+      "id": "stair-1-east",
+      "floor": 1,
+      "position": [
+        38,
+        4.68,
+        0
+      ],
+      "label": "East stairs, floor 2",
+      "checkpoint": "floor-1-east",
+      "refuge": true
+    },
+    {
+      "id": "corner-1-east-0",
+      "floor": 1,
+      "position": [
+        38,
+        4.68,
+        -12
+      ],
+      "label": "East gallery corner"
+    },
+    {
+      "id": "corner-1-east-1",
+      "floor": 1,
+      "position": [
+        38,
+        4.68,
+        12
+      ],
+      "label": "East gallery corner"
+    },
+    {
+      "id": "lift-1",
+      "floor": 1,
+      "position": [
+        2,
+        4.68,
+        13
+      ],
+      "label": "Elevator, floor 2",
+      "checkpoint": "floor-1-lift"
+    },
+    {
+      "id": "room-2-0",
+      "floor": 2,
+      "position": [
+        -28,
+        9.18,
+        -24
+      ],
+      "label": "Food court reference"
+    },
+    {
+      "id": "door-2-0",
+      "floor": 2,
+      "position": [
+        -28,
+        9.18,
+        -17.0
+      ],
+      "label": "Food court reference doorway"
+    },
+    {
+      "id": "hall-2-0",
+      "floor": 2,
+      "position": [
+        -28,
+        9.18,
+        -12
+      ],
+      "label": "Gallery outside Food court reference"
+    },
+    {
+      "id": "room-2-1",
+      "floor": 2,
+      "position": [
+        0,
+        9.18,
+        -24
+      ],
+      "label": "Dining reference zone"
+    },
+    {
+      "id": "door-2-1",
+      "floor": 2,
+      "position": [
+        0,
+        9.18,
+        -17.0
+      ],
+      "label": "Dining reference zone doorway"
+    },
+    {
+      "id": "hall-2-1",
+      "floor": 2,
+      "position": [
+        0,
+        9.18,
+        -12
+      ],
+      "label": "Gallery outside Dining reference zone"
+    },
+    {
+      "id": "room-2-2",
+      "floor": 2,
+      "position": [
+        28,
+        9.18,
+        -24
+      ],
+      "label": "Cinema reference zone"
+    },
+    {
+      "id": "door-2-2",
+      "floor": 2,
+      "position": [
+        28,
+        9.18,
+        -17.0
+      ],
+      "label": "Cinema reference zone doorway"
+    },
+    {
+      "id": "hall-2-2",
+      "floor": 2,
+      "position": [
+        28,
+        9.18,
+        -12
+      ],
+      "label": "Gallery outside Cinema reference zone"
+    },
+    {
+      "id": "room-2-3",
+      "floor": 2,
+      "position": [
+        -28,
+        9.18,
+        24
+      ],
+      "label": "Technology reference zone"
+    },
+    {
+      "id": "door-2-3",
+      "floor": 2,
+      "position": [
+        -28,
+        9.18,
+        17.0
+      ],
+      "label": "Technology reference zone doorway"
+    },
+    {
+      "id": "hall-2-3",
+      "floor": 2,
+      "position": [
+        -28,
+        9.18,
+        12
+      ],
+      "label": "Gallery outside Technology reference zone"
+    },
+    {
+      "id": "room-2-4",
+      "floor": 2,
+      "position": [
+        0,
+        9.18,
+        24
+      ],
+      "label": "Leisure reference zone"
+    },
+    {
+      "id": "door-2-4",
+      "floor": 2,
+      "position": [
+        0,
+        9.18,
+        17.0
+      ],
+      "label": "Leisure reference zone doorway"
+    },
+    {
+      "id": "hall-2-4",
+      "floor": 2,
+      "position": [
+        0,
+        9.18,
+        12
+      ],
+      "label": "Gallery outside Leisure reference zone"
+    },
+    {
+      "id": "room-2-5",
+      "floor": 2,
+      "position": [
+        28,
+        9.18,
+        24
+      ],
+      "label": "Restrooms reference"
+    },
+    {
+      "id": "door-2-5",
+      "floor": 2,
+      "position": [
+        28,
+        9.18,
+        17.0
+      ],
+      "label": "Restrooms reference doorway"
+    },
+    {
+      "id": "hall-2-5",
+      "floor": 2,
+      "position": [
+        28,
+        9.18,
+        12
+      ],
+      "label": "Gallery outside Restrooms reference"
+    },
+    {
+      "id": "stair-2-west",
+      "floor": 2,
+      "position": [
+        -38,
+        9.18,
+        0
+      ],
+      "label": "West stairs, floor 3",
+      "checkpoint": "floor-2-west",
+      "refuge": true
+    },
+    {
+      "id": "corner-2-west-0",
+      "floor": 2,
+      "position": [
+        -38,
+        9.18,
+        -12
+      ],
+      "label": "West gallery corner"
+    },
+    {
+      "id": "corner-2-west-1",
+      "floor": 2,
+      "position": [
+        -38,
+        9.18,
+        12
+      ],
+      "label": "West gallery corner"
+    },
+    {
+      "id": "stair-2-east",
+      "floor": 2,
+      "position": [
+        38,
+        9.18,
+        0
+      ],
+      "label": "East stairs, floor 3",
+      "checkpoint": "floor-2-east",
+      "refuge": true
+    },
+    {
+      "id": "corner-2-east-0",
+      "floor": 2,
+      "position": [
+        38,
+        9.18,
+        -12
+      ],
+      "label": "East gallery corner"
+    },
+    {
+      "id": "corner-2-east-1",
+      "floor": 2,
+      "position": [
+        38,
+        9.18,
+        12
+      ],
+      "label": "East gallery corner"
+    },
+    {
+      "id": "lift-2",
+      "floor": 2,
+      "position": [
+        2,
+        9.18,
+        13
+      ],
+      "label": "Elevator, floor 3",
+      "checkpoint": "floor-2-lift"
+    },
+    {
+      "id": "entrance",
+      "floor": 0,
+      "position": [
+        0,
+        0.18,
+        36.0
+      ],
+      "label": "Demo main entrance",
+      "checkpoint": "entrance"
+    },
+    {
+      "id": "exit-west",
+      "floor": 0,
+      "position": [
+        -42,
+        0.18,
+        0
+      ],
+      "label": "West demo exit",
+      "exit": true
+    },
+    {
+      "id": "assembly-west",
+      "floor": 0,
+      "position": [
+        -48,
+        0.18,
+        0
+      ],
+      "label": "West demo assembly point",
+      "assembly": true
+    },
+    {
+      "id": "exit-east",
+      "floor": 0,
+      "position": [
+        42,
+        0.18,
+        0
+      ],
+      "label": "East demo exit",
+      "exit": true
+    },
+    {
+      "id": "assembly-east",
+      "floor": 0,
+      "position": [
+        48,
+        0.18,
+        0
+      ],
+      "label": "East demo assembly point",
+      "assembly": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "room-0-0--door-0-0",
+      "from": "room-0-0",
+      "to": "door-0-0",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-0--hall-0-0",
+      "from": "door-0-0",
+      "to": "hall-0-0",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-0-1--door-0-1",
+      "from": "room-0-1",
+      "to": "door-0-1",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-1--hall-0-1",
+      "from": "door-0-1",
+      "to": "hall-0-1",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-0-2--door-0-2",
+      "from": "room-0-2",
+      "to": "door-0-2",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-2--hall-0-2",
+      "from": "door-0-2",
+      "to": "hall-0-2",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-0-3--door-0-3",
+      "from": "room-0-3",
+      "to": "door-0-3",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-3--hall-0-3",
+      "from": "door-0-3",
+      "to": "hall-0-3",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-0-4--door-0-4",
+      "from": "room-0-4",
+      "to": "door-0-4",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-4--hall-0-4",
+      "from": "door-0-4",
+      "to": "hall-0-4",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-0-5--door-0-5",
+      "from": "room-0-5",
+      "to": "door-0-5",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-0-5--hall-0-5",
+      "from": "door-0-5",
+      "to": "hall-0-5",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-0-0--hall-0-1",
+      "from": "hall-0-0",
+      "to": "hall-0-1",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-0-1--hall-0-2",
+      "from": "hall-0-1",
+      "to": "hall-0-2",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-0-3--hall-0-4",
+      "from": "hall-0-3",
+      "to": "hall-0-4",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-0-4--hall-0-5",
+      "from": "hall-0-4",
+      "to": "hall-0-5",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-0-west--corner-0-west-0",
+      "from": "stair-0-west",
+      "to": "corner-0-west-0",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-0-west-0--hall-0-0",
+      "from": "corner-0-west-0",
+      "to": "hall-0-0",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-0-west--corner-0-west-1",
+      "from": "stair-0-west",
+      "to": "corner-0-west-1",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-0-west-1--hall-0-3",
+      "from": "corner-0-west-1",
+      "to": "hall-0-3",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-0-east--corner-0-east-0",
+      "from": "stair-0-east",
+      "to": "corner-0-east-0",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-0-east-0--hall-0-2",
+      "from": "corner-0-east-0",
+      "to": "hall-0-2",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-0-east--corner-0-east-1",
+      "from": "stair-0-east",
+      "to": "corner-0-east-1",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-0-east-1--hall-0-5",
+      "from": "corner-0-east-1",
+      "to": "hall-0-5",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-0-4--lift-0",
+      "from": "hall-0-4",
+      "to": "lift-0",
+      "distance": 2.24,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-1-0--door-1-0",
+      "from": "room-1-0",
+      "to": "door-1-0",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-0--hall-1-0",
+      "from": "door-1-0",
+      "to": "hall-1-0",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-1-1--door-1-1",
+      "from": "room-1-1",
+      "to": "door-1-1",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-1--hall-1-1",
+      "from": "door-1-1",
+      "to": "hall-1-1",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-1-2--door-1-2",
+      "from": "room-1-2",
+      "to": "door-1-2",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-2--hall-1-2",
+      "from": "door-1-2",
+      "to": "hall-1-2",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-1-3--door-1-3",
+      "from": "room-1-3",
+      "to": "door-1-3",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-3--hall-1-3",
+      "from": "door-1-3",
+      "to": "hall-1-3",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-1-4--door-1-4",
+      "from": "room-1-4",
+      "to": "door-1-4",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-4--hall-1-4",
+      "from": "door-1-4",
+      "to": "hall-1-4",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-1-5--door-1-5",
+      "from": "room-1-5",
+      "to": "door-1-5",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-1-5--hall-1-5",
+      "from": "door-1-5",
+      "to": "hall-1-5",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-1-0--hall-1-1",
+      "from": "hall-1-0",
+      "to": "hall-1-1",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-1-1--hall-1-2",
+      "from": "hall-1-1",
+      "to": "hall-1-2",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-1-3--hall-1-4",
+      "from": "hall-1-3",
+      "to": "hall-1-4",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-1-4--hall-1-5",
+      "from": "hall-1-4",
+      "to": "hall-1-5",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-1-west--corner-1-west-0",
+      "from": "stair-1-west",
+      "to": "corner-1-west-0",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-1-west-0--hall-1-0",
+      "from": "corner-1-west-0",
+      "to": "hall-1-0",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-1-west--corner-1-west-1",
+      "from": "stair-1-west",
+      "to": "corner-1-west-1",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-1-west-1--hall-1-3",
+      "from": "corner-1-west-1",
+      "to": "hall-1-3",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-1-east--corner-1-east-0",
+      "from": "stair-1-east",
+      "to": "corner-1-east-0",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-1-east-0--hall-1-2",
+      "from": "corner-1-east-0",
+      "to": "hall-1-2",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-1-east--corner-1-east-1",
+      "from": "stair-1-east",
+      "to": "corner-1-east-1",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-1-east-1--hall-1-5",
+      "from": "corner-1-east-1",
+      "to": "hall-1-5",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-1-4--lift-1",
+      "from": "hall-1-4",
+      "to": "lift-1",
+      "distance": 2.24,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-0-west--stair-1-west",
+      "from": "stair-0-west",
+      "to": "stair-1-west",
+      "distance": 4.5,
+      "kind": "stairs",
+      "accessible": false,
+      "evacuation": true
+    },
+    {
+      "id": "stair-0-east--stair-1-east",
+      "from": "stair-0-east",
+      "to": "stair-1-east",
+      "distance": 4.5,
+      "kind": "stairs",
+      "accessible": false,
+      "evacuation": true
+    },
+    {
+      "id": "lift-0--lift-1",
+      "from": "lift-0",
+      "to": "lift-1",
+      "distance": 4.5,
+      "kind": "elevator",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "room-2-0--door-2-0",
+      "from": "room-2-0",
+      "to": "door-2-0",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-0--hall-2-0",
+      "from": "door-2-0",
+      "to": "hall-2-0",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-2-1--door-2-1",
+      "from": "room-2-1",
+      "to": "door-2-1",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-1--hall-2-1",
+      "from": "door-2-1",
+      "to": "hall-2-1",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-2-2--door-2-2",
+      "from": "room-2-2",
+      "to": "door-2-2",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-2--hall-2-2",
+      "from": "door-2-2",
+      "to": "hall-2-2",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-2-3--door-2-3",
+      "from": "room-2-3",
+      "to": "door-2-3",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-3--hall-2-3",
+      "from": "door-2-3",
+      "to": "hall-2-3",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-2-4--door-2-4",
+      "from": "room-2-4",
+      "to": "door-2-4",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-4--hall-2-4",
+      "from": "door-2-4",
+      "to": "hall-2-4",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "room-2-5--door-2-5",
+      "from": "room-2-5",
+      "to": "door-2-5",
+      "distance": 7.0,
+      "kind": "door",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "door-2-5--hall-2-5",
+      "from": "door-2-5",
+      "to": "hall-2-5",
+      "distance": 5.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-2-0--hall-2-1",
+      "from": "hall-2-0",
+      "to": "hall-2-1",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-2-1--hall-2-2",
+      "from": "hall-2-1",
+      "to": "hall-2-2",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-2-3--hall-2-4",
+      "from": "hall-2-3",
+      "to": "hall-2-4",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-2-4--hall-2-5",
+      "from": "hall-2-4",
+      "to": "hall-2-5",
+      "distance": 28.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-2-west--corner-2-west-0",
+      "from": "stair-2-west",
+      "to": "corner-2-west-0",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-2-west-0--hall-2-0",
+      "from": "corner-2-west-0",
+      "to": "hall-2-0",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-2-west--corner-2-west-1",
+      "from": "stair-2-west",
+      "to": "corner-2-west-1",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-2-west-1--hall-2-3",
+      "from": "corner-2-west-1",
+      "to": "hall-2-3",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-2-east--corner-2-east-0",
+      "from": "stair-2-east",
+      "to": "corner-2-east-0",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-2-east-0--hall-2-2",
+      "from": "corner-2-east-0",
+      "to": "hall-2-2",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-2-east--corner-2-east-1",
+      "from": "stair-2-east",
+      "to": "corner-2-east-1",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "corner-2-east-1--hall-2-5",
+      "from": "corner-2-east-1",
+      "to": "hall-2-5",
+      "distance": 10.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "hall-2-4--lift-2",
+      "from": "hall-2-4",
+      "to": "lift-2",
+      "distance": 2.24,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-1-west--stair-2-west",
+      "from": "stair-1-west",
+      "to": "stair-2-west",
+      "distance": 4.5,
+      "kind": "stairs",
+      "accessible": false,
+      "evacuation": true
+    },
+    {
+      "id": "stair-1-east--stair-2-east",
+      "from": "stair-1-east",
+      "to": "stair-2-east",
+      "distance": 4.5,
+      "kind": "stairs",
+      "accessible": false,
+      "evacuation": true
+    },
+    {
+      "id": "lift-1--lift-2",
+      "from": "lift-1",
+      "to": "lift-2",
+      "distance": 4.5,
+      "kind": "elevator",
+      "accessible": true,
+      "evacuation": false
+    },
+    {
+      "id": "entrance--room-0-4",
+      "from": "entrance",
+      "to": "room-0-4",
+      "distance": 12.0,
+      "kind": "corridor",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-0-west--exit-west",
+      "from": "stair-0-west",
+      "to": "exit-west",
+      "distance": 4.0,
+      "kind": "outside",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "exit-west--assembly-west",
+      "from": "exit-west",
+      "to": "assembly-west",
+      "distance": 6.0,
+      "kind": "outside",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "stair-0-east--exit-east",
+      "from": "stair-0-east",
+      "to": "exit-east",
+      "distance": 4.0,
+      "kind": "outside",
+      "accessible": true,
+      "evacuation": true
+    },
+    {
+      "id": "exit-east--assembly-east",
+      "from": "exit-east",
+      "to": "assembly-east",
+      "distance": 6.0,
+      "kind": "outside",
+      "accessible": true,
+      "evacuation": true
+    }
+  ],
+  "model": "building.glb",
+  "provenance": {
+    "layoutStatus": "Approximate plan",
+    "layoutNote": "Inspired by the published 2022 redevelopment plans. Dimensions, destinations, checkpoints, and routes are illustrative and unverified. Shop subdivisions, cutaway walls, columns, seating, and escalator details are demo artwork, not surveyed tenant fit-outs. Interior props are reused from Kenney CC0 kits and arranged by store type; actual tenant furnishings and merchandise are not verified.",
+    "sources": [
+      "https://iis.emb.gov.ph/embis/dms/documents/fileviewer2/2025/NCR/202515026661/NCR2025-FT2N26661-File_2.pdf"
+    ]
+  },
+  "instructions": {
+    "assistance": "No step-free evacuation route is modeled on upper floors. Follow facility staff instructions; demo assistance points are not verified real refuges.",
+    "emergency": "DEMONSTRATION ONLY. Exit positions and routes are illustrative, not approved evacuation instructions. Follow real building signs and emergency personnel."
+  },
+  "interiorAssets": {
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sources": [
+      "https://kenney.nl/assets/furniture-kit",
+      "https://kenney.nl/assets/food-kit"
+    ],
+    "models": [
+      {
+        "pack": "food-kit",
+        "name": "bottle-oil"
+      },
+      {
+        "pack": "food-kit",
+        "name": "cup-coffee"
+      },
+      {
+        "pack": "food-kit",
+        "name": "frappe"
+      },
+      {
+        "pack": "food-kit",
+        "name": "plate-dinner"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "bookcaseOpen"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "bookcaseOpenLow"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "cabinetBedDrawer"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "chair"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "chairCushion"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "chairRounded"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "coatRackStanding"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "computerKeyboard"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "computerMouse"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "computerScreen"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "desk"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "lampRoundFloor"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "laptop"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "loungeChair"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "loungeSofa"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "plantSmall1"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "pottedPlant"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "table"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "tableCoffee"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "tableRound"
+      },
+      {
+        "pack": "furniture-kit",
+        "name": "televisionModern"
+      }
+    ],
+    "fitoutsVerified": false
+  }
+}
